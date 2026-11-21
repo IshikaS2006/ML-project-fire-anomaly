@@ -1,0 +1,1396 @@
+power_plant_id,plant_name,operator,latitude,longitude
+relation/3406354,Saint Leon Wind Farm,Algonquin Power,49.3704068,-98.6236337
+relation/4541054,Parc éolien Baie-des-Sables,Innergex,48.702448,-67.8709188
+relation/4541055,Parc éolien Le-Nordais,TransAlta,48.7818657,-67.5818747
+relation/4541056,Parc éolien Le-Nordais (Cap-Chat),TransAlta,49.0634364,-66.7601672
+relation/4541057,Parc éolien de Gros-Morne,Cartier Énergie Éolienne,49.2057188,-65.4411641
+relation/4541058,Parc éolien de l'Anse-a-Valleau,Cartier Énergie Éolienne,49.0976651,-64.6444231
+relation/4541059,Parc éolien du Mont-Copper,NextEra Energie Canada,48.9568156,-65.553078
+relation/4541060,Parc éolien du Mont-Miller,NextEra Energie Canada,48.9749945,-65.4909019
+relation/4544363,Parc éolien Mont-Louis,Northland Power,49.1866783,-65.6471394
+relation/4548934,"Parc éolien New Richmond New Richmond, Saint-Alphonse et Caplan",MW Intermediary LP,48.2058971,-65.6955827
+relation/4565335,"Parc éolien de Saint-Ulric, Saint-Léandre (Jardin d'Eole)",Northland Power,48.7291906,-67.6299708
+relation/4663944,Ernestown Wind Farm,Horizon Legacy,44.2300474,-76.7215644
+relation/4676368,Gesner Wind Farm,Saturn Power,42.5191452,-81.7460527
+relation/4713806,Raleigh Wind Farm,,42.268449,-82.1803405
+relation/4713815,Kingsbridge Wind Farm,Capital Power,43.852756,-81.668013
+relation/4713817,Mohawk Point Wind Farm,,42.85775,-79.49073
+relation/4732854,Erie Shores Wind Farm,Erie Shores Wind,42.629763,-80.7674076
+relation/4732857,Clear Creek Wind Farm,,42.59364,-80.599035
+relation/5853081,Zephyr (Watford),Zephyr Corporation,42.92204,-81.9038945
+relation/6214807,Bridge River 1 & 2 Generating Stations,BC Hydro,50.7263436,-122.2419775
+relation/6217279,Bay d'Espoir Hydroelectric Power Station,,47.9909672,-55.7997114
+relation/6612242,Centennial Wind Power Facility,SaskPower,50.147306,-107.4599736
+relation/7185205,Harrow Wind Farm,Engie Energy Internationa,42.0247275,-82.9642119
+relation/7412014,Parc éolien Montérégie,Kruger Énergie Montérégie S.E.C. (KÉMONT),45.2918115,-73.6528582
+relation/7423901,Parc éolien de la Seigneurie de Beaupré,Boralex,47.3318077,-70.8979217
+relation/7424387,Parc éolien Le Plateau,Invenergy Wind Canada LLC,48.0511364,-67.4523702
+relation/7426377,"Parc éolien de Témiscouata (Saint-Honoré, Saint-Elzéar)",Boralex,47.6295042,-69.1282621
+relation/7426378,Parc éolien du Lac-Alfred,"Enbridge, EDF EN, MRC de La Matapédia et MRC de La Mitis",48.3804893,-67.7499359
+relation/7426463,Parc éolien de Montagne Sèche,Cartier Énergie Éolienne,49.1817584,-64.945476
+relation/7426464,Parc éolien de Carleton,Innergex,48.2027481,-66.1321023
+relation/7426465,Parc éolien communautaire de Frampton,Boralex,46.4404406,-70.7367172
+relation/7428216,Parc éolien La Mitis,MRC de la Mitis et EDF Énergies Nouvelles,48.3676063,-67.8357402
+relation/7429717,Parc éolien de Saint-Robert-Bellarmin,EDF Énergies Nouvelles,45.6873337,-70.5439573
+relation/7430313,Parc éolien communautaire de Saint-Philémon,Parc éolien St-Philémon S.E.C.,46.6654551,-70.3643176
+relation/7430763,Parc éolien du Massif du Sud,Enbridge et EDF Énergies Nouvelles,46.5727661,-70.4570501
+relation/7430764,Parc éolien Mont Sainte-Marguerite,Éolectric,46.3236742,-71.1492305
+relation/7430765,Parc éolien Des Moulins,Invenergy Wind Canada,46.1740027,-71.3473235
+relation/7430766,Parc éolien de l'Érable,Enerfin Energy Co.,46.0982514,-71.6503668
+relation/7827967,Parc éolien Rivière-du-Moulin,EDF Renouvelables,47.9686249,-71.0908563
+relation/7845110,Cape Scott Wind Farm,,50.7665844,-128.0347535
+relation/8060074,Orillia 3,Recurrent Energy,44.5846384,-79.4928694
+relation/8823794,Chaudière Falls,Portage Power,45.4213406,-75.7171366
+relation/9044703,Kent Hills Wind Farm,TransAlta,45.792149,-64.8983386
+relation/10383319,Waneta Dam,FortisBC,49.0042266,-117.6144225
+relation/10383351,St. Joseph Wind Farm,,49.1462138,-97.4136313
+relation/10383814,Kettles Hill Wind Farm,,49.512489,-113.8150108
+relation/10383815,Castle River Wind Farm,,49.5087558,-114.0465485
+relation/10383816,Castle Rock Ridge 1 & 2 Wind Farm,Castle Rock Ridge Limited,49.5557382,-113.9668515
+relation/10383823,Soderglen Wind Farm,,49.5130725,-113.5042614
+relation/10383824,Ardenville Wind Farm,TransAlta Wind,49.5604216,-113.4301781
+relation/10383825,McBride Lake Wind Farm,,49.6022941,-113.4976124
+relation/10719646,Diavik Wind Farm,Diavik Diamond Mine Inc.,64.4891705,-110.3385055
+relation/10809959,Bow Lake Wind Farm,Nodin Kitagan Limited Partnership,47.2095297,-84.5259601
+relation/10810541,Suncor Adelaide Wind Energy,Suncor Adelaide Wind Limited,43.0247452,-81.6876881
+relation/10810796,NextEra Adelaide Wind Energy Centre,NextEra Energy Canada,42.9950937,-81.7137727
+relation/10810870,Napier Wind Farm,wpd Canada,42.9614658,-81.7263978
+relation/11085061,Centrale Drummond,Hydro-Sherbrooke,45.3812409,-71.9592095
+relation/11198172,Centrale de Drummondville - Barrage de Drummondville,,45.8863193,-72.4830942
+relation/11561216,Brockville 1 Solar Facility,Axium Infinity Solar,44.6340363,-75.6990358
+relation/11568610,Smiths Falls 1 Solar Facility,Recurrent Energy,44.8724956,-76.0034062
+relation/11568611,Smiths Falls 6 Solar Facility,Recurrent Energy,44.8580115,-75.9852476
+relation/11568612,Smiths Falls 5 Solar Facility,Recurrent Energy,44.9237377,-76.1373996
+relation/12222590,Ruskin Dam,BC Hydro,49.195312,-122.4094056
+relation/12374627,Dokie Ridge Wind Farm,,55.8054523,-122.2611666
+relation/12374700,Volcano Creek Hydroelectric Project,,56.7199965,-130.5947696
+relation/12374708,McLymont Creek Hydroelectric Project,,56.6989758,-130.7896554
+relation/12377787,Montrose Creek Hydroelectric Project,,50.6299077,-124.1630941
+relation/12377896,Kemano Generating Station,,53.5892865,-127.8213372
+relation/12380608,Rutherford Creek,,50.2794049,-122.9220853
+relation/12380717,Lamont Creek,Innergex,49.5785632,-122.3429252
+relation/12380718,Upper Stave River,,49.5690284,-122.3590405
+relation/12380739,Northwest Stave River,,49.6251932,-122.4556336
+relation/12380859,Stokke Creek,Innergex,49.7177066,-122.0243287
+relation/12380860,Douglas Creek,Innergex Renewable Energy,49.7797768,-122.1426167
+relation/12380875,Tretheway Creek,Innergex,49.6951318,-122.1045764
+relation/12380876,Tipella Creek,,49.7324232,-122.170961
+relation/12380920,Big Silver Creek,,49.7048194,-121.8546268
+relation/12384011,Fire Creek,Innergex Renewable Energy,49.792844,-122.2587721
+relation/12386145,Bone Creek,,52.2559026,-119.1449644
+relation/12388919,Whatshan Dam,BC Hydro,49.9133698,-118.0944316
+relation/12705991,Borden Generating Station,Maritime Electric,46.2502549,-63.688066
+relation/12707642,West Cape Wind Farm,Engie,46.6837559,-64.3825615
+relation/12707643,Summerside Wind Farm,Summerside Electric,46.4373593,-63.7997965
+relation/12724947,Lamèque Wind Farm,Acciona,47.8451393,-64.626705
+relation/12729542,Sainte Rose Generating Station,NB Power,47.6297778,-64.9169462
+relation/12820794,Aria Solar,Canadian Solar,44.6245524,-79.8450101
+relation/12882754,Ganaraska Wind Farm,,44.0088225,-78.5852496
+relation/13057622,Coleson Cove Generating Station,NB Power,45.1576209,-66.206507
+relation/13183958,Zeballos Power Plant,Kruger,50.0564247,-126.7741259
+relation/13381121,Bull Creek,,52.5083418,-110.0585099
+relation/13381128,Chin Chute Wind Farm,Acciona Energia,49.6841136,-112.3246063
+relation/13381168,Enmax Taber Wind Farm,ENMAX,49.7096037,-111.9350185
+relation/13386767,Ghost Pine Wind Farm,NextEra,51.9042793,-113.3635535
+relation/13386792,Wintering Hills Wind Farm,TransAlta Renewables,51.2062954,-112.560526
+relation/13386837,Blue Trail Wind,TransAlta Renewables,49.6551816,-113.4728289
+relation/13386847,Oldman 2 Wind Farm,Apex Wind Energy,49.5758264,-113.849785
+relation/13386898,Summerview 1 & 2 Wind Farm,TransAlta Renewables,49.6114525,-113.769984
+relation/13387031,Cowley North Wind Farm,TransAlta Renewables,49.562574,-114.1070772
+relation/13387087,Magrath Wind Power Project,Suncor Energy,49.3877604,-112.9538812
+relation/13387225,Halkirk Wind Power Facility,Capital Power,52.2737962,-112.0583944
+relation/13389937,Sinnott Wind Farm,TransAlta Renewables,49.5387784,-113.9787075
+relation/13390045,Windrise Wind Project,TransAlta Renewables,49.4880719,-113.4547099
+relation/13393262,Whitla Wind 1,Capital Power Energy,49.6598793,-111.2750607
+relation/13394390,Riverview Wind Farm,Enel Green Power Canada,49.542213,-113.9068788
+relation/13396965,Blackspring Ridge Wind Farm,EDF Renewables Canada,50.1350495,-112.876038
+relation/13415197,Rattlesnake Ridge Wind Farm,Berkshire Hathaway Energy,49.8869028,-111.0854432
+relation/13458083,Centrale solaire Gabrielle-Bodis,Hydro-Québec,45.4144744,-73.436555
+relation/13603802,Morse Wind Power Facility,SaskPower,50.3366551,-106.9701819
+relation/13613507,Cypress Wind Power Facility,SaskPower,49.994188,-108.5877729
+relation/13623357,Amherst Island wind farm,,44.1517671,-76.6977102
+relation/13623525,Greenwich Lake (Dorion) Wind Farm,,48.7677751,-88.7738298
+relation/13727187,Red Lily Wind Power Facility,Algonquin Power and Utilities Corp.,50.2176141,-101.789547
+relation/13762046,Western Lily Wind Power Facility,"Gaia Power, Inc.",50.3870615,-103.0396377
+relation/13792583,Ellershouse Wind Farm,Alternative Resource Energy Authority,44.9264464,-64.0146903
+relation/13792845,Hardwood Lands Community Wind Farm,Scotian Wind,45.0916635,-63.5258095
+relation/13884333,Parc éolien Vents du Kempt,Eolectric,48.3169185,-67.1113442
+relation/13941657,Ketch Harbour Wind Power Project,,44.5363538,-63.6104894
+relation/13944632,Digby Neck Wind Farm,Sprott Power Corporation,44.596986,-65.9476069
+relation/14010828,Site nordique expérimental CORUS,,48.9886319,-64.4502046
+relation/14029836,Parc éolien Saint-Damase,Innergex,48.6327306,-67.8676225
+relation/14036415,Parc éolien Roncevaux,,48.1292055,-67.4111343
+relation/14040804,Parc éolien Le plateau 2,Boralex et Régie intermunicipale de l’énergie Gaspésie-Îles-de-la-Madeleine,48.047435,-67.4887301
+relation/14048343,Parc éolien Viger-Denonville,MRC de Rivière-du-Loup et Innergex,47.9200355,-69.2207336
+relation/14052844,Parc éolien Nicolas-Riou,"EDF EN, Régie intermunicipale de l’énergie du Bas-Saint-Laurent et Régie intermunicipale de l’énergie de la Gaspésie-Îles-de-la-Madeleine",48.1337291,-68.8732485
+way/14340604,ZooShare Biogas Facility,,43.8166286,-79.1704443
+relation/14435510,Gardiner Mines (Cape Breton University),,46.1950717,-60.0841319
+relation/14435511,Chebucto Terence Bay Wind Farm,Chebucto Terence Bay Wind Farm,44.5053051,-63.7114926
+relation/14435588,Moorefield Wind Project,,43.8289078,-80.7611195
+relation/14435632,Settlers Landing Wind Farm,,44.102315,-78.6524093
+relation/14435652,Sumac Ridge Wind Farm,,44.1516489,-78.6315806
+relation/14435670,Avondale Wind Farm,Northumberland Wind Field Inc,45.6351252,-62.2845064
+relation/14435675,Grand Bend Wind Farm,,43.3885592,-81.696804
+relation/14435685,Grey Highlands Zero Emissions People Wind Farm,,44.3216216,-80.287543
+relation/14435695,Gunn's Hill Wind Farm,,43.0772369,-80.6838521
+relation/14435899,Port Ryerse Wind Farm,,42.7657708,-80.2477193
+relation/14435915,Snowy Ridge Wind Farm,,44.1717797,-78.640409
+relation/14436737,Pierre-De Saurel Wind Farm,,45.9717861,-72.9312855
+relation/14436741,Bateston Wind Farm,Celtic Current,45.9932525,-59.9075639
+relation/14439021,Martock Ridge Wind Farm,,44.9291378,-64.1163922
+relation/14439024,New Glasgow (Maclellan's Brook) Wind Farm,,45.505587,-62.6083228
+relation/14442302,Goulais Wind Farm,,46.6665517,-84.3677972
+relation/14444245,K2 Wind,,43.9152615,-81.6317803
+relation/14444246,Quixote One Wind Energy Wind Farm,,44.2729258,-81.5790644
+relation/14444276,St. Columban Wind Farm,,43.5500904,-81.2989411
+relation/14444279,Whittington Wind Farm,,44.0039145,-80.1623846
+relation/14444287,Mont-Rothery Wind Farm,,48.9798175,-65.3779883
+relation/14448110,Box Springs Wind Project Wind Farm,,50.1024243,-110.7218572
+relation/14448134,Millbrook Wind Farm,,45.3263963,-63.3443113
+relation/14448145,Bluewater Wind Farm,,43.4902285,-81.5259464
+relation/14448150,HAF Energy Wind Farm,,43.1157623,-79.705329
+relation/14448162,Oxley Wind Farm Wind Farm,,42.0119967,-82.8725357
+relation/14448165,Skyway 8 Wind Farm,,44.0892183,-80.3987404
+relation/14451178,South Branch Wind Farm,,44.9605484,-75.3670156
+relation/14451191,Springwood Wind Farm,,43.7867526,-80.4048858
+relation/14459600,Wainfleet Wind Farm,,42.8896126,-79.3827768
+relation/14459608,Hermanville Clear Spring Wind Development Wind Farm,PEI Energy Corporation,46.4522903,-62.3017447
+relation/14459614,Des Moulins II Wind Farm,,48.0426786,-67.5273508
+relation/14459754,Creignish Rear Wind Farm,Black River Wind,45.7278355,-61.4258587
+relation/14459756,Parker Mountain Wind Farm,Scotian Wind,44.7908758,-65.4932212
+relation/14459758,South Cape Mabou Wind Farm,,46.1507263,-61.3809334
+relation/14459759,Spiddle Hill Wind Farm,Colchester Cumberland Wind Field,45.6130371,-63.1975841
+relation/14459760,CAW Wind Turbine Wind Farm,,44.4272068,-81.4101517
+relation/14459825,Erieau Wind Wind Farm,,42.3137259,-82.0009084
+relation/14460009,WEICan R&D Park Wind Farm,Wind Energy Institute of Canada,47.0347388,-64.0151956
+relation/14460079,Cowessess Wind Farm,,50.4170464,-104.4642252
+relation/14460133,Conestogo Wind Farm,,43.7876089,-80.5892865
+relation/14460144,Mother Earth Renewable Energy Wind Farm,,45.8187017,-82.1437703
+relation/14460213,Chatham Wind Farm,,42.2035429,-82.3377034
+relation/14460237,Kent Breeze Wind Farm Wind Farm,,42.5441814,-82.0425939
+relation/14467473,Ramea Wind Diesel,,47.5266958,-57.3885682
+relation/14467506,Arthur Wind Farm,,43.8470436,-80.5176447
+relation/14476600,Gracey (Thames River II) Wind Farm,,42.2703545,-82.4916455
+relation/14477638,South Side (Thames River II),,42.0818476,-83.0429371
+relation/14477646,Zurich Wind Farm,,43.4239311,-81.6563449
+relation/14477658,Bear Mountain Wind Farm,Bear Mountain Wind LP,55.6997336,-120.4208427
+relation/14477680,Caribou Wind Park Wind Farm,,47.4682907,-66.4500761
+relation/14477681,Fermeuse Wind Farm,Elemental Energy,46.9797707,-52.9939818
+relation/14477687,Proof Line Wind Farm,,43.1507219,-82.0227152
+relation/14477697,Marsh Line (Thames River I),,42.4718507,-82.3547295
+relation/14480563,St. Lawrence Wind Farm,Elemental Energy,46.962044,-55.4274631
+relation/14480569,Cruickshank Wind Farm,,44.2457601,-81.5686358
+relation/14480572,Cultus Wind Farm,,42.592665,-80.579715
+relation/14480573,Frogmore Wind Farm,,42.58593,-80.554015
+relation/14480579,Ravenswood Wind Farm Wind Farm,,43.1770288,-81.9753994
+relation/14480582,East Point Eastern Kings Wind Farm,PEI Energy Corporation,46.4559981,-62.0463154
+relation/14480583,Norway Wind Park Wind Farm,Engie,47.0116474,-64.0263677
+relation/14480596,Digby Limited Wind Farm,,44.6486809,-65.8008051
+relation/14480670,Rosa Flora Greenhouses Wind Farm,,42.9516798,-79.5869352
+relation/14480671,Macleod Flats Wind Farm,,49.6868201,-113.475204
+relation/14480675,Glace Bay & Donkin Wind Farm,Cape Breton Power,46.2014399,-59.9391312
+relation/14480692,Ramea Wind-Hydrogen Diesel,,47.5227956,-57.3981262
+relation/14480694,North Cape Wind Farm,PEI Energy Corporation,47.0490388,-63.9991303
+relation/14480695,Exhibition Place Turbine Wind Farm,,43.6304409,-79.4247949
+relation/14480719,Huron Wind Wind Farm,,44.3147616,-81.5434954
+relation/14480722,Lundbreck Wind Farm Wind Farm,,49.5830589,-114.2159302
+relation/14480738,OPG 7 Gomberg Wind Farm,,43.812272,-79.0739602
+relation/14480739,Port Albert Wind Farm,,43.86585,-81.6936
+relation/14480744,Haeckel Hill Wind Farm,,60.748779,-135.230364
+relation/14482010,Tiverton Wind Farm,,44.313194,-81.5483362
+relation/14482023,Optimist Wind Energy Wind Farm,,49.5283676,-113.9828993
+relation/14483490,East Durham Wind Farm,,44.2080262,-80.6830251
+relation/14487514,Bornish Wind Energy Centre Wind Farm,,43.1136389,-81.6999902
+relation/14495337,McLean's Mountain Wind Farm,,45.9209096,-82.0167504
+relation/14522187,Centrale Shipshaw,Rio Tinto Alcan,48.4476741,-71.2156173
+relation/14522189,Bésy,Resolute Forest Products,48.4402548,-71.2467396
+relation/14522782,Quality Wind Project,Capital Power,55.206631,-120.8643945
+relation/14558573,Amherst I Wind Farm,Sprott Power Corporation,45.8339256,-64.2512368
+relation/14562284,St. Margaret's Bay Hydroelectric System,Nova Scotia Power,44.7015223,-63.8937399
+relation/14562402,Pubnico Point Wind Energy Center,NextEra Energy Canada,43.6013949,-65.8041465
+relation/14565823,Dalhousie Mountain Wind Farm,RMS Energy,45.5681165,-62.9723429
+relation/14565831,Nuttby Mountain Wind,Nova Scotia Power,45.5605001,-63.223618
+relation/14565836,Glen Dhu Wind,Capstone Infrastucture,45.6682546,-62.220396
+relation/14566179,Chebucto Pockwock,Pockwock Wind Limited Partnership,44.7710523,-63.8348553
+relation/14566180,Kaizer Meadow Wind,Municipality of the District of Chester,44.7280436,-64.25435
+relation/14566181,South Canoe Wind Energy,"Nova Scotia Power, Oxford Frozen Foods and Minas Basin Pulp and Power",44.773174,-64.341144
+relation/14566183,Barrington Wind Power,Watts Wind Energy,43.5213293,-65.6639851
+relation/14566191,Liverpool Wind Energy Storage,Watts Wind Energy,44.0894284,-64.7066458
+relation/14566195,Watt Section,Watts Wind Energy,44.8990724,-62.46614
+relation/14566196,Porters Lake Wind Power,Watts Wind Energy,44.7258329,-63.3543198
+relation/14566199,Atlantic Superstore Highway 7 Turbine,Loblaws,44.7423021,-63.2821833
+relation/14566200,Gaetz Brook Community Wind Farm,Natural Forces,44.7580323,-63.2045454
+relation/14566933,Cape Mabou,Black River Wind,46.1507263,-61.3809334
+relation/14566940,Fairmont Wind Project,Wind4All,45.6812616,-61.9897155
+relation/14566941,Maryvale Wind,Maryvale Wind,45.7306034,-62.0655338
+relation/14566949,Pictou Landing Wind,Wind4All,45.5900425,-62.3670646
+relation/14566950,Aulds Mountain Wind Farm,Natural Forces,45.5926529,-62.3728574
+relation/14568049,Whynotts Wind,Whynotts Wind Limited,44.4051134,-64.4691466
+relation/14568086,Little River Harbour Community Wind,Scotian Wind,43.7534427,-66.0303211
+relation/14568087,Black Pond,Scotian Wind,43.751389,-66.0203326
+relation/14569595,Greenfield Wind,Affinity Wind,45.3475732,-63.1397482
+relation/14569596,Millbrook/Truro Heights Community Wind,Millbrook First Nation wi Wind Canada,45.3223904,-63.3431472
+relation/14569597,Walton Community Wind,Scotian Wind,45.1977077,-63.9689925
+relation/14569598,Nine Mile River Wind,Scotian Wind,45.0252282,-63.6574567
+relation/14569599,North Beaver Bank,Scotian Wind,44.9183655,-63.6798342
+relation/14569960,Point Tupper Wind,Enercon Canada,45.5700363,-61.3169683
+relation/14569961,Isle Madame Community Wind,Scotian Wind,45.5679212,-61.0744083
+relation/14570033,Mulgrave Community Wind,Celtic Current,45.6201558,-61.4328553
+relation/14570034,Sable Wind,Municipality of the District of Guysborough,45.3171665,-60.9982799
+relation/14570035,Point Aconi Wind Project,Celtic Current,46.3097358,-60.3118723
+relation/14570036,New Victoria Community Wind Power,Celtic Current,46.2435039,-60.1368433
+relation/14570037,Point Aconi 2,Celtic Current,46.3128133,-60.3075955
+relation/14570038,Hillside Boularderie Wind,Natural Forces,46.2458461,-60.3498732
+relation/14570039,Barrachois Community Wind Farm,Natural Forces Wind,46.1560118,-60.4029342
+relation/14570089,Baddeck Community Wind,Scotian Wind,46.1470046,-60.6962124
+relation/14570090,Cheticamp Wind Project,,46.5808526,-60.9696866
+relation/14570091,Grand Etang Wind Farm,Nova Scotia Power,46.5497579,-61.0379385
+relation/14570094,Saint Rose Community Wind,Scotian Wind,46.332188,-61.1806709
+relation/14570102,Higgins Mountain Wind,Sprott Power Corporation,45.5882402,-63.6221503
+relation/14572550,Springhill Wind,Sprott Power Corporation,45.6057887,-64.0187914
+relation/14572580,Amherst Community Wind,Natural Forces,45.8330277,-64.1458928
+relation/14573105,Marshville,,45.7577668,-63.1021529
+relation/14573106,Fitzpatrick Mountain Wind,Capstone Infrastucture,45.6254447,-62.9002614
+relation/14573107,Limerock Wind,Affinity Wind,45.5381266,-62.8202498
+relation/14573445,St. Croix Hydro,Minas Energy,44.9612898,-64.0331455
+relation/14573844,Black River Hydro,Nova Scotia Power,45.0329348,-64.3865645
+relation/14573884,Sissiboo Hydro,Nova Scotia Power,44.4001637,-65.8342207
+relation/14573886,Bear River Hydro,Nova Scotia Power,44.560444,-65.6088546
+relation/14577214,Wreck Cove Hydro,Nova Scotia Power,46.5500351,-60.4708095
+relation/14577819,Mersey Hydro,Nova Scotia Power,44.1160092,-64.8845087
+relation/14594536,Methals Power Staion,Black River Hydro,44.9396644,-64.4315111
+relation/14616383,Forty Mile Wind Power Project,Suncor,49.734274,-111.2014343
+relation/14616505,Wheatland Wind Project,Wheatland Wind Project Ltd.,51.2055792,-112.4492951
+relation/14685977,,,43.1723695,-79.2643146
+relation/14689830,Sandhurst Shores Solar Farm,SunEdison,44.1320804,-76.8946638
+relation/14706642,Little Brook Wind Turbine,Nova Scotia Power,44.2988407,-66.0969819
+relation/14933080,Tiverton Riverhurst,,44.406958,-66.1894485
+relation/14963042,Riverton Wind,Municipality of the County of Pictou,45.5354144,-62.6848906
+relation/14964669,Cypress (1&2) Wind Project,EDF Renewables,49.8315765,-110.4350714
+relation/14966311,Kemptown Wind Farm,Affinity Wind LP,45.4956094,-63.1204783
+relation/14966352,Municipality of the County of Colchester,Municipality of the County of Colchester,45.4591383,-63.1121711
+relation/14972296,Joggins,,45.6943268,-64.4488566
+relation/14978965,Valley Region SWRM Authority`,Valley Region SWRM Authority,45.0622724,-64.5399234
+relation/14988807,Orchard PRV Chamber,Halifax Regional Water,44.7285658,-63.6833618
+relation/14991438,Universite Sainte Anne,Universite Sainte Anne,44.3314587,-66.1241632
+relation/15024787,Great Northern Timber,,45.1204684,-62.9851103
+relation/15028063,Victoria Junction Combustion Turbines,Nova Scotia Power,46.1618681,-60.1128358
+relation/15045853,Menihek Hydroelectric Generating Station,Newfoundland and Labrador Hydro,54.4719733,-66.614615
+relation/15051554,Iqaluit,Qulliq Energy Corporation,63.7539853,-68.5075955
+relation/15061219,Lily Lake,Peterborough Utilities Inc.,44.3145667,-78.3972266
+relation/15062457,Nanticoke Solar Farm,Ontario Power Generation;Six Nations of the Grand River Development Corporation;Mississaugas of the Credit First Nation,42.807638,-80.0355854
+relation/15068164,Bluefish Hydro,Northwest Territories Power Corporation,62.6758812,-114.265923
+relation/15068288,,,44.7211736,-63.5871318
+relation/15069276,Kinkora Wind,Community of Kinkora,46.3234607,-63.5941014
+relation/15081584,Sable Island,Parks Canada,43.9327941,-60.0061338
+relation/15091258,WEICan R&D Park Solar,Wind Energy Institute of Canada,47.0331987,-64.016407
+relation/15093897,,,46.2606749,-63.1378641
+relation/15268024,Dune-du-Nord,Intermunicipal board Gaspésie Magdalen Islands,47.5685883,-61.6364653
+relation/15338684,Cat Arm Generating Station,Newfoundland and Labrador Hydro,50.0257894,-56.7648521
+relation/15349965,Raglan Mine,,61.6906742,-73.6411042
+relation/15396841,Burchill Wind Energy,Tobique First Nation Saint John Energy Natural Forces,45.178761,-66.1919152
+relation/15400761,Bloomfield Centre,St. Francis Xavier University,45.6171839,-61.99356
+relation/15403267,Wolfe Island Wind Project,,44.1558631,-76.4332847
+relation/15411172,Aeolus Wind Farm,,47.0368143,-64.0049253
+relation/15411261,Armow Wind Project,,44.1966487,-81.4686019
+relation/15411577,Brenton Community Wind Farm,,43.9736326,-66.0829576
+relation/15411581,Cap-Pelé Wind Farm,,46.1797203,-64.2384628
+relation/15419353,Talbot Wind Farm,,42.4335504,-81.7888154
+relation/15419454,Ripley Wind Farm,,44.061424,-81.6421435
+relation/15419583,Richardson (Thames River II),,42.2319752,-82.4602171
+relation/15419657,Port Alma Wind Farm,,42.2091185,-82.228499
+relation/15419666,Pointes Aux Roches Wind Farm,,42.28504,-82.5385495
+relation/15419795,Prince Wind Energy Project,,46.6126654,-84.4914744
+relation/15420325,Ferndale Wind Farm,,44.9488009,-81.2676631
+relation/15420364,Dufferin Wind Farm,,44.2165819,-80.2768998
+relation/15423088,Bisnett Line (Thames River I),,42.2797804,-81.9899116
+relation/15423318,South Kent Wind Farm,,42.3355069,-82.1407487
+relation/15427527,Lanfine Wind Farm,Pattern Energy,51.2608074,-110.5416702
+relation/15427766,Hilda Wind Farm,RES Canada,50.5349108,-110.0984399
+relation/15427826,Garden Plain Wind Project,Pattern Energy,51.9687084,-111.8452703
+relation/15427880,Hand Hills Wind Project,BlueEarth Renewables,51.5787816,-112.2619677
+relation/15429928,Paqtnkek Community Hall,Paqtnkek Mi'kmaw Nation,45.6026164,-61.7376103
+relation/15431576,Sacred Heart School,Sacred Heart School,44.6413247,-63.5819605
+relation/15441894,Le Granit,,45.6971458,-70.5818468
+relation/15442057,Underwood Wind Farm,,44.3213064,-81.4583238
+relation/15442185,Shinish Wind Farm,,49.652394,-120.1046597
+relation/15442195,Meikle Wind Farm,,55.2809094,-121.46974
+relation/15442275,Côte-de-Beaupré,,47.2950824,-70.8776682
+relation/15442335,Port Dover and Nanticoke Wind Farm,Capital Power,42.8265992,-80.0542596
+relation/15442336,Summerhaven Wind Farm,,42.8659032,-79.9624886
+relation/15442454,Comber Wind Farm,,42.2149961,-82.5828745
+relation/15442463,Belle River Wind Farm,,42.2525544,-82.6689522
+relation/15442493,Plateau Wind Farm,,44.225205,-80.3610927
+relation/15442500,North Malden (Thames River II),,42.1553471,-82.8497865
+relation/15442523,North Kent Wind Farm,,42.5019166,-82.2603398
+relation/15442665,Swanton Line (Thames River I),,42.2648185,-82.2702652
+relation/15442732,Providence Bay,,45.7293722,-82.2931664
+relation/15442776,Niagara Region Wind Farm,,42.9810898,-79.4979424
+relation/15442779,Naylor (Thames River II) Wind Farm,,42.1904258,-82.8029755
+relation/15445649,Henvey Inlet Wind Farm,,45.8467552,-80.6522145
+relation/15445663,Grand Renewable Wind Farm,,42.900125,-79.7574013
+relation/15445684,Melancthon Wind Farm,,44.0935634,-80.312846
+relation/15445685,Grand Valley Wind Farm,,43.9642279,-80.3671999
+relation/15445692,Front Line (Thames River I),,42.3944737,-81.8683383
+relation/15445697,Goshen Wind Energy Centre,,43.3210572,-81.6633238
+relation/15445728,East Lake St. Clair Wind Farm,,42.4997879,-82.3846573
+relation/15445763,Cedar Point Wind Farm,,43.1067898,-82.0354947
+relation/15445828,Gosfield Wind Farm,,42.1372018,-82.6890402
+relation/15445829,Jericho Wind Farm,,43.133989,-81.8863245
+relation/15461665,Grizzly Bear Wind Power Project,Enel,53.221728,-111.0910768
+relation/15473524,Mesgi'g Ugju's'n,,48.3127336,-66.7297418
+relation/15473677,Moose Lake Wind Farm,,55.2883018,-121.2714421
+relation/15473701,Pennask Wind Farm,,49.9204845,-120.111041
+relation/15473795,Waterton Wind Turbines Wind Farm,,49.2113851,-113.6554467
+relation/15474818,Lingan Wind Farm,,46.244974,-60.0402896
+relation/15475258,Nation Rise Wind Farm,,45.2017858,-75.2294042
+relation/15475397,Romney Wind Energy Centre,,42.1444474,-82.4392282
+relation/15475433,Grey Highlands Clean Energy Wind Farm,,44.3088137,-80.3369092
+relation/15475468,Irish Mountain Wind Farm,,45.4933089,-62.6242543
+relation/15478370,Cardinal Newman CSS Wind Turbine,,43.2226315,-79.7463086
+relation/15478389,Whitla Wind 2,Capital Power Energy,49.6500448,-111.2609075
+relation/15479142,Richibucto (Oinpegitjoig) Wind Project,,46.6620289,-64.8911436
+relation/15482167,Sharp Hills Wind Farm,edp Renewables,51.7570055,-110.6224222
+relation/15518604,IDEA Building,Dalhousie University,44.6356766,-63.5946256
+relation/15521431,Ecology Action Centre,Ecology Action Centre,44.6567567,-63.5963813
+relation/15521802,Sterling Wind Project,,49.5792735,-112.3639895
+relation/15521834,Shelburne Campus,Nova Scotia Community College,43.7464755,-65.308271
+relation/15521839,Strait Area Campus,Nova Scotia Community College,45.6292068,-61.3641274
+relation/15522003,Municipality of the District of Shelburne Turbine,Municipality of the District of Shelburne,43.674394,-65.277669
+relation/15541283,I Deveau Fisheries,I Deveau Fisheries,43.4923725,-65.6182003
+relation/15541307,I Deveau Fisheries,I Deveau Fisheries,43.4994089,-65.6138639
+relation/15567838,Kingston Solar,Samsung Renewable Energy;Six Nations of the Grand River,44.2720024,-76.6699775
+relation/15570902,Grand Renewable Solar,Samsung Renewable Energy;Six Nations of the Grand River,42.8910937,-79.8118481
+relation/15571725,Liskeard Solar Projects,TransCanada Energy Ltd.,47.5013579,-79.7115576
+relation/15577906,Southgate Solar,Southgate Solar LP (Samsung),44.0991482,-80.7459492
+relation/15577911,Cochrane Solar Farm,Northland Power,49.1340927,-80.981386
+relation/15577912,Amherstburg Solar Park,Capstone,42.1649934,-83.0852302
+relation/15589725,Forrest Kerr Hydroelectric Project,AltaGas,56.7229527,-130.668235
+relation/15589743,McLymont Creek Hydroelectric Project,Coast Mountain Hydro,56.6996168,-130.7893155
+relation/15589791,Volcano Creek Hydroelectric Project,Coast Mountain Hydro,56.7196081,-130.593064
+relation/15634933,Jenner Wind Power Project Phase 1-3,Jenner Wind Limited Partnership (JWLP),50.8157607,-111.0618135
+relation/15634934,Jenner 3,,50.8226873,-111.067572
+relation/15635497,IDEA and Design Building,Dalhousie University,44.6418119,-63.5734498
+relation/15635616,Blue Hill Wind Farm,,50.287736,-107.1423313
+relation/15635680,Des Cultures,,45.220066,-73.6160337
+relation/15637518,Golden South,,49.5966762,-105.9509159
+relation/15637761,Belle-Rivière,,48.4590779,-71.7295486
+relation/15637845,Sukunka & Zonnebeke,,55.5540237,-121.5478717
+relation/15637860,Riverhurst,,50.7359657,-106.9182328
+relation/15638019,OK Hutterite Colony,,49.3416961,-112.6261661
+relation/15638224,Valley Waste-Resource Management Turbine,,45.0622724,-64.5399234
+relation/15638229,West Brampton Reservoir and Pumping Station Turbine,,43.6568581,-79.823125
+relation/15638257,Souris Harbour Authority Eastern Cold Storage Turbine,Souris Harbour Authority Eastern Cold Storage,46.343493,-62.2420335
+relation/15638406,Hessen Strasse Road Turbine,,43.5077985,-80.6430781
+relation/15638413,Clachan Road Turbine,,42.5588204,-81.7561344
+relation/15638466,Wreck Cove Windmill,,46.5487243,-60.495307
+relation/15638985,Buffalo Atlee Wind Farm,Capstone Infrastructure,50.7237782,-111.081223
+relation/15639508,Wisokolamson wind farm,,45.7112128,-64.8879863
+relation/15639521,Wocawson (Tobique Sussex),,45.8025673,-65.2526699
+relation/15937988,Puntledge River Generating Station,,49.688057,-125.0344954
+relation/15956681,CPKCR Solar Farm,Canadian Pacific Kansas City Railway,50.9976662,-114.0060434
+relation/16255289,Strathmore Solar Farm,Capital Power,51.0294879,-113.3666346
+relation/16259610,Stardale Solar Farm,Innergex,45.5024089,-74.5267361
+relation/16259639,Sarnia Solar Energy Project,First Solar,42.9450197,-82.3288863
+relation/16259653,Solar Sault Ste. Marie,First Solar,46.52384,-84.4461765
+relation/16259689,Brooks Solar II Project,Elemental Energy,50.5796278,-111.8633782
+relation/16276820,Centrale thermique de Cap-aux-Meules,Hydro-Québec,47.374171,-61.8857853
+relation/17219732,,Hydro-Québec,47.277708,-61.7154527
+relation/17475483,Tufts Cove Generating Station,Nova Scotia Power,44.6780909,-63.5965638
+relation/17528361,Halifax Water Aerotech Waste Water Treatment Plant,,44.8561875,-63.525906
+relation/17811777,Mahone Bay Solar Plant,Town of Mahone Bay,44.4410579,-64.3677061
+relation/17944791,Buffalo Plains Wind Farm,Copenhagen Infrastructure Partners,50.3763558,-112.7168827
+relation/18518732,London Street Generating Station,Peterborough Utilties,44.3112855,-78.3146004
+relation/18786489,Forty Mile Bow Island Wind Farm,Acciona Energia,49.8040123,-111.2632974
+relation/19293456,Lower Notch Generating Station,Ontario Power Generation,47.140252,-79.4616975
+relation/19295765,Hound Chutes,Ontario Power Generation,47.3059818,-79.6962484
+relation/19295782,Ragged Chutes Hydropneumatic Power Plant,,47.2764748,-79.671218
+relation/19508533,Parc éolien Apuiat,Boralex,49.7469502,-67.318747
+relation/19559004,Sa/See Energy,Copper Niisuu LP and White River First Nation,62.3831649,-140.8882473
+relation/19559016,Glooscap Landing Micro-Grid,Glooscap Energy,45.0685098,-64.2214606
+relation/19673662,Bekevar Wind Facility,,50.0155637,-102.535884
+relation/19704683,Centrale Westbury,,45.497999,-71.6200562
+relation/19971447,Jackfish Lake Power Plant,Northwest Territories Power Corporation,62.469188,-114.3811612
+relation/20064955,,,47.9199519,-79.8897628
+relation/20124677,Kirkland Lake baseload plant,,48.1341549,-80.0412861
+way/22819761,Centrale de Chute-à-Caron,Rio Tinto Alcan,48.4506477,-71.2538012
+way/22819766,Centrale Murdock Wilson,Resolute Forest Products,48.451992,-71.2131636
+way/23757824,East Windsor Cogeneration Centre,Capital Power,42.3255031,-83.0001928
+way/24656911,Pickering Nuclear Generating Station,Ontario Power Generation,43.8111636,-79.0632238
+way/29004314,Central Utilities,York University,43.777541,-79.4987449
+way/33787918,Halton Hills Generating Station,Atura Power,43.5603865,-79.845344
+way/37538927,Sir Adam Beck II Generating Station,Ontario Power Generation,43.1458954,-79.0442078
+way/43931599,Centrale des Cèdres,Hydro-Québec,45.3087192,-74.0272742
+way/44666826,East Angus,Boralex,45.4826991,-71.662299
+way/47216246,South Power House,,45.4045417,-73.9387138
+way/56989974,Central Utilities Building,Brock University,43.1221262,-79.2456505
+way/57733291,Air Liquide Scotford Complex Power Plant,,53.7985174,-113.0842357
+way/59442497,Big Chute Hydro-Electric Generating Station,Ontario Power Generation,44.8842949,-79.6760647
+way/68586722,Ottawa Cogeneration Plant,TransAlta,45.4032822,-75.6541833
+way/68609752,Centrale des Rapides-Farmer,Hydro-Québec,45.4988314,-75.7632846
+way/69966315,DeCew I Generating Station,Ontario Power Generation,43.1176486,-79.2640075
+way/71186560,Pointe du Bois Generating Station,Manitoba Hydro,50.2981718,-95.5480535
+way/71349505,McArthur Generating Station,Manitoba Hydro,50.3980506,-95.9975948
+way/73157080,Sidney,Ontario Power Generation,44.1314732,-77.5934546
+way/73157444,Frankford Generation Station,Ontario Power Generation,44.1864515,-77.5945351
+way/73326133,Healey Falls Hydroelectric,Ontario Power Generation,44.3729266,-77.7787331
+way/73326609,Seymour Generating Station,Peterborough Utilities,44.3215309,-77.7819236
+way/73328169,Ranney Falls Generating Station,Ontario Power Generation,44.2920875,-77.8018933
+way/75607227,Slave Falls Generating Station,Manitoba Hydro,50.2222505,-95.568833
+way/75815809,High Falls Generating Station,Ontario Power Generation,44.9536953,-76.6086918
+way/77716497,Auburn Generating Station,Ontario Power Generation,44.3234763,-78.31403
+way/79791984,Centrale aux Outardes-4,,49.7036401,-68.9038196
+way/80574951,Centrale Manic-1,Hydro-Québec,49.1912859,-68.3295042
+way/80575096,Centrale McCormick,Hydro-Québec,49.1930179,-68.3267957
+way/80891261,Centrale Jean-Lesage,Hydro-Québec,49.3210646,-68.3463011
+way/80961191,Centrale Manic-5,Hydro-Québec,50.639702,-68.7267524
+way/82668550,Camp Hill Power Plant,,44.6451047,-63.5859911
+way/92195462,R.H. Saunders Generating Station,Ontario Power Generation,45.0077962,-74.7926956
+way/98818176,Centrale Fraser,Génération Hydro,47.8410356,-69.5317099
+way/100244369,Centrale La Gabelle,Hydro-Québec,46.4491166,-72.7393724
+way/101757365,Centrale de Shawinigan-3,Hydro-Québec,46.5337839,-72.7656717
+way/101859065,Centrale de Saint-Narcisse,Hydro-Québec,46.5484579,-72.4102158
+way/103615195,Mactaquac Generating Station,NB Power,45.9551629,-66.8665409
+way/103870819,Incinérateur de Québec,,46.8287112,-71.2206645
+way/104578381,Centrale des Sept-Chutes,Hydro-Québec,47.1226147,-70.8285314
+way/104662165,Boat Bluff,,52.6429162,-128.5236228
+way/105668479,Centrale Beaumont,Hydro-Québec,47.5561059,-72.8357502
+way/106205961,Centrale Paugan,Hydro-Québec,45.8096715,-75.9312399
+way/107497456,Brilliant Generating Station,FortisBC,49.3249279,-117.6208099
+way/107502191,Kootenay Canal Generating Station,BC Hydro,49.4532249,-117.517866
+way/111011770,Centrale du Rapide-Blanc,Hydro-Québec,47.796283,-72.9733542
+way/111013066,Centrale de la Trenche,Hydro-Québec,47.7521635,-72.8782446
+way/112497507,Petty Harbour Generating Station,Newfoundland Power,47.4653858,-52.7122182
+way/115812123,Miller Creek,,50.3498625,-122.8713628
+way/120342220,Portlands Energy Centre,Ontario Power Generation/TransCanada Energy Limited,43.6497562,-79.3297524
+way/122593283,Sackville Landfill Methene Recovery,Highland Energy,44.8113008,-63.7712455
+way/128097134,Bridge River No. 2 Powerhouse,BC Hydro,50.7232074,-122.2436772
+way/128220659,Norman Generating Station,,49.7716482,-94.5244722
+way/128220672,Kenora Generating Station,,49.7725414,-94.5036446
+way/128365124,Corner Brook Pulp And Paper,Kruger,48.9559368,-57.9483549
+way/133117561,Kelsey Generating Station,Manitoba Hydro,56.0406125,-96.5378119
+way/133597201,Long Spruce Generating Station,,56.3979336,-94.3691958
+way/133597207,Kettle Generating Station,Manitoba Hydro,56.3812097,-94.6347401
+way/133667228,Bearspaw Dam,TransAlta,51.1011206,-114.2824086
+way/133705329,Limestone Generating Station,Manitoba Hydro,56.5081057,-94.1107914
+way/136468289,Central Utilities Plant,University of Guelph,43.5335158,-80.2264289
+way/136595209,Second Falls Dam,Edmundston Energy,47.4684884,-68.2353549
+way/139495688,Kingston Mills Generating Station,Energy Ottawa,44.2932824,-76.4406305
+way/143637579,Centrale d'isle Maligne,Rio Tinto Alcan,48.5771284,-71.6347846
+way/145535457,Revelstoke Generating Station,BC Hydro,51.0485014,-118.1940608
+way/146195894,Arrow Lakes Generating Station,Columbia Power Corporation,49.3430431,-117.7688015
+way/151537883,Cascade Hydro Power Plant,TransAlta Corporation,51.2001746,-115.5022691
+way/151544743,Beechwood Generating Station,NB Power,46.5428924,-67.6686204
+way/156983889,Strathcona Dam Generating Station,BC Hydro,49.9980698,-125.5855141
+way/158460554,Sir Adam Beck I Generating Station,Ontario Power Generation,43.1490232,-79.0447212
+way/158460599,Sir Adam Beck Pump Generating Station,,43.1444536,-79.0602574
+way/158464934,Goreway Power Station,Ontario Power Authority,43.7469959,-79.6801671
+way/158593528,Buntzen powerhouse #1,BC Hydro,49.375376,-122.8686646
+way/158762846,Barrett Chute power plant,Ontario Power Generation,45.2492599,-76.7592145
+way/158763288,Chats Falls Power Station,Hydro One Networks Inc.,45.4737912,-76.2368538
+way/158944951,Little Long Generating Station,Ontario Power Generation and Moose Cree First Nation,50.0045095,-82.1658994
+way/158945914,Smoky Falls Generating Station,Ontario Power Generation and Moose Cree First Nation,50.0611821,-82.1613438
+way/158946417,Kipling Generating Station,Ontario Power Generation and Moose Cree First Nation,50.1451785,-82.2084718
+way/158957854,Centrale La Grande-1,Hydro-Québec,53.7338868,-78.5702754
+way/159946093,McMahon Cogeneration Plant,NorthRiver Midstream;Heartland Generation,56.1444855,-120.6687269
+way/161277535,Cheakamus/Squamish River Powerhouse,BC Hydro,49.9335804,-123.2911054
+way/161596460,Nepisiguit Falls Generating Station,NB Power,47.4054533,-65.7918779
+way/165631500,Brighton Beach LP Power Station,Atco Power & Ontario Power Generation,42.2793306,-83.0944578
+way/165631501,West Windsor Power Plant,TransAlta,42.2809514,-83.0866578
+way/168639540,Centrale Masson,,45.5437877,-75.4211277
+way/168810534,Deer Lake Hydro Plant,Kruger Energy,49.1698212,-57.4361172
+way/168812375,W.R. Beatty Generating Station,Brookfield Renewable Power,45.9166508,-76.9223564
+way/171599031,Centrale Chute-du-Diable,Rio Tinto Alcan,48.7807027,-71.6974836
+way/172745437,Jordan River Generating Station,,48.4296478,-124.0522697
+way/176711932,Portlands Energy Centre,Atura Power,43.6495404,-79.3312459
+way/176790271,Almonte Electric Plant,Mississippi River Power Corp,45.2258447,-76.1980937
+way/179537056,Irving Pulp and Paper,,45.2619756,-66.0916809
+way/183497847,Ruby Farms,Vine Fresh Produce Limited,42.9538155,-81.6692889
+way/184094773,Centrale de Chute-Savane,Rio Tinto Alcan,48.7535338,-71.8396348
+way/184454879,Centrale Eastmain-1,Hydro-Québec,52.1818,-76.0511873
+way/184454880,Centrale Bernard-Landry,Hydro-Québec,52.1795389,-76.0418158
+way/184454881,Centrale Robert-Bourassa,Hydro-Québec,53.7814793,-77.5316423
+way/184454885,Centrale de Chelsea,Hydro-Québec,45.5125377,-75.7774515
+way/184454886,Centrale de la Hart-Jaune,Hydro-Québec,51.7853384,-67.9120647
+way/184454888,Centrale de la chute Allard,Hydro-Québec,47.8928082,-73.71841
+way/184454890,Centrale du lac-Robertson,Hydro-Québec,50.9990785,-59.0619887
+way/184496025,Centrale Manic-5-PA,Hydro-Québec,50.6460235,-68.733995
+way/185739263,South Sutton Crekk,,49.2876511,-125.3091803
+way/186062015,Raging River 2,,50.3884424,-127.2334374
+way/188031620,Sandspit Power Plant,BC Hydro,53.2355402,-131.8793195
+way/188623562,Centrale La Grande-4,,53.8862394,-73.4665633
+way/188852793,Pine Falls Generating Station,Manitoba Hydro,50.5670786,-96.1784604
+way/190529867,Harris Generating Station,,47.9388358,-84.8376689
+way/196436145,Arnprior Generating Station,Ontario Power Generation,45.4187732,-76.3470834
+way/198181501,Bruce Nuclear Generating Station,Bruce Power,44.3239502,-81.581625
+way/198183739,Lennox Generating Station,,44.1477931,-76.8511434
+way/198187522,Boundary Dam Power Station,SaskPower,49.0947977,-103.0264746
+way/198552826,Great Falls Generating Station,Manitoba Hydro,50.4617046,-96.0095099
+way/199258044,E.B. Campbell Hydroelectric Station,SaskPower,53.6888479,-103.3476671
+way/199754283,MacKay River TC Power Plant,,57.0404955,-111.9091061
+way/201056604,Seven Sisters Generating Station,Manitoba Hydro,50.1205081,-96.0176496
+way/202058738,Jenpeg Generating Station,Manitoba Hydro,54.5431367,-98.0284506
+way/203294681,Ermine Power Station,SaskPower,51.8578918,-109.0331733
+way/205140345,,,42.1675928,-82.8431848
+way/206042491,Centrale Outardes-3,Hydro-Québec,49.5565206,-68.7231982
+way/206110308,Holyrood Thermal Generating Station,Nalcor,47.4510125,-53.0978272
+way/207119980,Lakefield Hydroelectric Generating Station,,44.4210044,-78.2722445
+way/207996766,Seton Powerhouse,BC Hydro,50.6727242,-121.9242138
+way/208771199,Brandon Generating Station,,49.8456195,-99.8900333
+way/209264752,Island Cogeneration Plant,Capital Power Corporation,50.0688802,-125.2817812
+way/209542244,Sanikiluaq Power Plant,Qulliq Energy Corporation,56.5382575,-79.2305742
+way/210146279,Emerald Energy from Waste,Emerald Energy From Waste Inc.,43.6970197,-79.6831046
+way/211134768,Lingan Generating Station,,46.2369554,-60.038309
+way/211202482,Trenton Generating Station,Nova Scotia Power,45.6216513,-62.6455198
+way/212058320,Ghost Lake Hydroelectric Plant,TransAlta,51.2188445,-114.70758
+way/214301225,Poplar River Power Station,SaskPower,49.0488373,-105.4739711
+way/218607387,Churchill Falls Generating Station,Newfoundland and Labrador Hydro,53.5307571,-63.9678526
+way/219007214,,,50.6521223,-113.87035
+way/221395530,Nipawin Hydroelectric Station,SaskPower,53.3209738,-104.0432102
+way/223756830,ENMAX Crossfield Energy Centre,Enmax,51.3973971,-114.0148362
+way/225965807,Atikokan Generating Station,,48.8356339,-91.5663679
+way/229067013,Centrale de Bryson,,45.6610596,-76.6317619
+way/229406171,Chenaux Station,Ontario Power Generation,45.5837084,-76.6739908
+way/230142958,Centrale des Rapides-Farmer,Hydro-Québec,45.5008222,-75.7640546
+way/230145148,Centrale de Chelsea,Hydro-Québec,45.5108342,-75.7739959
+way/230166225,Centrale de Beauharnois,Hydro-Québec,45.3119909,-73.9094372
+way/230242213,Arnprior Solar Project,EDF Renewables,45.4101752,-76.2707228
+way/230890644,Douglas Generating Station,Multistream Power Corporation,45.508538,-76.9333673
+way/232154731,Renfrew Power Generation,,45.4773233,-76.6921813
+way/233689038,ConocoPhillips Gas Plant,,52.3582711,-114.3239323
+way/234881431,North Battleford Energy Centre,,52.6831293,-108.1715686
+way/235403566,Kangiqiniq Power Plant,Qulliq Energy Corporation,62.8125899,-92.0806127
+way/236458306,Otter Rapids Generating Station,Ontario Power Generation,50.1813425,-81.637396
+way/238383738,Cape Broyle Generating Station,Newfoundland Power,47.0957885,-52.9372254
+way/238620183,Des Joachims Power Station,,46.1827587,-77.6968839
+way/238998323,Sturgeon Falls Generating Station,West Nipissing Power Generation,46.3694989,-79.9357725
+way/239147093,Abitibi Canyon Generating Station,,49.8819573,-81.5670827
+way/239619835,Upper Bonnington Generating Station,FortisBC,49.4597968,-117.4843247
+way/239845640,Crystal Falls Generating Station,,46.4500879,-79.8628932
+way/242514438,Centrale thermique,,45.5016162,-73.6144487
+way/243988768,Twin Falls Generating Station,,48.7467058,-80.5816119
+way/244226942,Pine Portage Generating Station,,49.3074591,-88.3103179
+way/247885747,York Energy Centre,,44.0754891,-79.5312293
+way/252894913,Centrale Bersimis-2,Hydro-Québec,49.1753494,-69.2258955
+way/253815017,Calstock Power Plant,,49.7452081,-84.0703805
+way/254282268,Selkirk Generating Station,Manitoba Hydro,50.134268,-96.8512278
+way/255478124,Stewartville Generating Station,Ontario Power Generation,45.4071179,-76.5067071
+way/255678766,Lequille Hydroelectric Power Station,Nova Scotia Power,44.7266252,-65.4967188
+way/256301205,Centrale de la Première-Chute,Hydro-Québec,47.6002946,-79.4526178
+way/256613488,Maritime Electric Diesel Generator,Maritime Electric,46.2388305,-63.1184163
+way/256613509,Charlottetown Thermal Generating Station,,46.2384382,-63.1185487
+way/256661255,Alexander Falls Generating Station,Ontario Power Generation,49.1352294,-88.357988
+way/257841182,Island Falls Generating Station,H2O Power,49.5773589,-81.3821385
+way/258892405,Long Sault Rapids Generating Station,Algonquin Power,49.2135844,-81.0203649
+way/258998295,,,49.8114262,-121.4585129
+way/259144136,Otto Holden Generating Station,Ontario Power Generation,46.3784206,-78.7276724
+way/262626314,Manitou Station,Ontario Power Generation,50.5831754,-93.4544192
+way/263554703,Aubrey Falls,,46.9095207,-83.212973
+way/263918556,Ear Falls Generating Station,Ontario Power Generation,50.6310858,-93.2206404
+way/264807363,Centrale hydroélectrique Daniel Larocque,Électricité Algonquin Power,46.5547356,-75.4999616
+way/267883403,Sheerness Generating Station,ATCO Electric - TransAlta Utilities,51.4358408,-111.7886793
+way/268086514,Greenfield Energy Centre,Calpine,42.7695557,-82.4522724
+way/269127372,Coteau Creek Hydroelectric Station,SaskPower,51.2748762,-106.8736263
+way/271670221,Stephenville Turbine Station,Newfoundland and Labrador Hydro,48.5356313,-58.5178119
+way/272511584,,TransAlta,51.0342277,-115.0409325
+way/273633391,Bighorn Hydroelectric Plant,TransAlta,52.3082399,-116.3244
+way/274901437,Darlington Nuclear Generating Station,Ontario Power Generation,43.8705928,-78.719938
+way/275731287,First Light 1,SunEdison / Sky Power,44.2899295,-76.9252116
+way/275805474,Cascade Street Generating Station,Bracebridge Generation,45.3503997,-80.0266515
+way/287655599,Queen Elizabeth Power Station,,52.0945887,-106.7047909
+way/295323519,Tunis Power Plant,Atlantic Power,48.8712378,-80.8931089
+way/297490838,Harmon,Ontario Power Generation and Moose Cree First Nation,50.1114043,-82.2083412
+way/299604013,Lower Sturgeon Falls Hydroelectric Generating Station,,48.8130825,-81.4875464
+way/303703062,Horseshoe Plant,TransAlta,51.118066,-115.0342608
+way/308277345,,Ontario Power Generation,47.139024,-79.4539829
+way/308435211,Aguasabon Generating Station,,48.7866685,-87.161008
+way/308445089,,,48.5357887,-86.1441291
+way/318465055,Topsail Generating Station,Newfoundland Power Inc.,47.539492,-52.9190411
+way/320126402,SunE Rutley Solar Farm,SunEdison,45.0049533,-74.9743461
+way/320126586,Edwardsburgh Morrisburg Solar Project,"Penn Energy Renewables, Ltd",44.7264595,-75.4933925
+way/320311679,Brian J. Gallagher Generating Station,Mississippi River Power Corporation,45.2254868,-76.198998
+way/320744441,Centrale de la Sainte-Marguerite-3,Hydro-Québec,50.7147696,-66.7816433
+way/321910705,La Grande-3,Hydro-Québec,53.7274642,-75.9874826
+way/322119602,Centrale Brisay,Hydro-Québec,54.4492779,-70.5129213
+way/322119606,Centrale Jim-Gray,Produits forestiers Resolu,48.6986924,-71.2125711
+way/322153179,Centrale de la Sarcelle,SEBJ,52.6677769,-76.6323675
+way/322366621,Centrale René-Lévesque,Hydro-Québec,49.7398706,-68.595563
+way/323897853,Centrale La Grande-2A,Hydro-Québec,53.7808073,-77.5489133
+way/328684097,Dave Rampel Solar Farm,Rainy River First Nations,48.7165945,-94.2564002
+way/328684126,Morley Solar Farm,Rainy River First Nations,48.7046112,-94.2454451
+way/328684295,Vanzwolf Solar Farm,Rainy River First Nations,48.7092336,-94.2540474
+way/330116318,Glenarm Solar Farm,DIF Infrastructure,44.467535,-78.9664228
+way/330371016,DiscoveryLight,DiscoveryLightLP (aka Canadian Solar Solutions Inc.),44.4399936,-79.0691702
+way/334450101,Lower Bonnington Generating Station,FortisBC,49.4616985,-117.500529
+way/334450102,South Slocan Generating Station,FortisBC,49.4555725,-117.5198898
+way/334450103,Corra Linn Generating Station,FortisBC,49.4688565,-117.4686252
+way/334628974,,Innergex,50.6605584,-121.9833656
+way/334799585,La Joie Generating Station,BC Hydro,50.839646,-122.8559006
+way/334801748,Peace Canyon Generating Station,BC Hydro,55.9825097,-121.9949898
+way/335155098,Cornwall Solar,Algonquin Power,45.1049213,-74.6933668
+way/335699604,Bridge River No. 1 Powerhouse,BC Hydro,50.7296664,-122.2404063
+way/336933592,Whitedog Falls Generating Station,Ontario Power Generation,50.1146394,-94.8688835
+way/349697953,Twin Rivers Paper,Twin Rivers Paper,47.3689217,-68.3292464
+way/358771725,Baker Lake Power Plant,Qulliq Energy Corporation,64.3216701,-96.020066
+way/360219314,Brazeau Powerhouse,TransAlta,52.9101312,-115.3754345
+way/361196161,Poste des Cèdres,Hydro-Québec,45.3100149,-74.0277966
+way/361337877,Whitehorse Hydro Plant,Yukon Power,60.6939048,-135.0400348
+way/361734577,Rundle Hydro Plant,TransAlta,51.0886828,-115.3735327
+way/366960747,SunE Rutley Solar Farm,SunEdison,45.0167959,-74.9669694
+way/367273277,David Brown Solar Park,Saturn Power Inc.,45.0061411,-75.0034696
+way/370583119,Brockville Solar Farm,EffiSolar,44.5979586,-75.7372019
+way/373238989,Big Eddy Generating Station,Ontario Power Generation,45.0205753,-79.7529397
+way/374714746,Michipicoten High Falls Generation Station,Great Lakes Power,47.9576692,-84.8307251
+way/375112638,Iroquois Falls NPI Power Plant,,48.769439,-80.6665475
+way/380823490,,,47.9069409,-84.715658
+way/381674554,St. Isidore,EDF Renewables,45.3635753,-74.9091684
+way/382735251,Starwood Solar Sault Ste. Marie,EDF Renewables,46.5176079,-84.426254
+way/382951542,Starwood Solar Sault Ste. Marie 2/3,KKR Global Infrastructure,46.5422404,-84.2824696
+way/383315647,Starwood Solar Sault Ste. Marie 2/3,KKR Global Infrastructure,46.5423701,-84.2782304
+way/383315648,Starwood Solar Sault Ste. Marie 2/3,KKR Global Infrastructure,46.5408482,-84.2725312
+way/383315649,Starwood Solar Sault Ste. Marie 2/3,KKR Global Infrastructure,46.5407327,-84.2782926
+way/383319512,Starwood Solar Sault Ste. Marie 2/3,KKR Global Infrastructure,46.5502157,-84.2845453
+way/383319515,Starwood Solar Sault Ste. Marie 2/3,KKR Global Infrastructure,46.5474663,-84.2757372
+way/383319518,Starwood Solar Sault Ste. Marie 2/3,KKR Global Infrastructure,46.5458388,-84.2825887
+way/384903887,Glendale Solar Project,Northland Power Inc.,45.1001653,-74.7174565
+way/391945907,Shuswap Falls Powerhouse,,50.295999,-118.8133057
+way/396745472,Penn Energy - Brantgate Solar Project,Penn Energy Renewables Ltd.,43.048482,-80.3881492
+way/398222940,Sundance Power Station,,53.506613,-114.5574036
+way/398417798,Kearl,Imperial Oil,57.4291427,-111.137835
+way/398966141,Alain-Lemaire Solar Park,RSP Energie Inc,45.8624153,-72.0630072
+way/401184624,Grande Prairie Generating Station,Constellation Energy Corporation,55.3312495,-119.2116221
+way/401184626,Poplar Hills,,55.33858,-119.2191235
+way/401218986,H.R. Milner Plant,Maxim Power Corp,54.0075266,-119.1029689
+way/401286624,Whitecourt Power,Capstone,54.1615333,-115.7326274
+way/402535304,Brazeau Rubber Dam,,52.9626322,-115.5891673
+way/402718554,Genesee Generating Station,Capital Power,53.3413133,-114.3053912
+way/402718555,Keephills Generating Station,TransAlta,53.4470925,-114.446969
+way/409431523,Madawaska Hydro-Dam Fraser Plant,Edmundston Energy,47.3630314,-68.3247943
+way/412994909,Mackenzie Conifex Timber Power,,55.3369613,-123.1820977
+way/416178295,Thunder Bay Airport Solar Farm,SkyPower,48.3667776,-89.3270975
+way/416607400,Qulliq Energy Corporation  Whale Cove,Qulliq Energy Corporation,62.1703416,-92.5811076
+way/418101749,Centrale aux Outardes-2,,49.1446028,-68.3896217
+way/418129924,DeCew II Generating Station,Ontario Power Generation,43.1189124,-79.2614737
+way/418179055,St. Lawrence-Franklin D. Roosevelt Power Project,New York Power Authority,45.005055,-74.797617
+way/418200919,Centrale de la Péribonka,,49.5098694,-71.1799254
+way/418200920,Stan Adamson Power House,,44.3522259,-78.2946492
+way/418202531,Centrale de Carillon,Hydro-Québec,45.5685539,-74.383007
+way/418202535,Centrale de La Tuque,,47.4444996,-72.7989577
+way/418204624,Metro Vancouver Waste-to-Energy Facility,Covanta,49.1863464,-122.9777641
+way/423894829,Cameron Falls Generating Station,,49.1536442,-88.3457384
+way/428068665,Centrale des Rapide-des-Cœurs,Hydro-Québec,47.786566,-73.3752553
+way/431214436,Clover Bar Energy Centre,Capital Power,53.5870041,-113.3651512
+way/431696982,Medicine Hat Plant,City of Medicine Hat,50.0415189,-110.7234539
+way/431769415,Kingston Gardiner TS Unity Road Solar Project,SunEdison,44.322619,-76.564524
+way/431798224,Hydro Quebec Power Plant Quaqtaq,Hydro-Québec,61.0467411,-69.6231509
+way/432358487,MacKay Generating Station,Brookfield Renewable Energy,47.268913,-84.4369872
+way/434301233,China Creek,,49.185596,-124.7394884
+way/439043716,Downtown District Energy Centre,Calgary District Heating Inc.,51.0440077,-114.0538792
+way/440985895,Centrale Laforge-1,Hydro-Québec,54.1690975,-72.6151288
+way/442136079,Centrale Laforge-2,SEBJ; Hydro-Québec,54.5907006,-71.2792027
+way/448588814,Millbank power plant,Energie NB Power,47.0729634,-65.4551254
+way/451913412,PEI Energy Systems District Heating Plant,Enwave,46.2517098,-63.1079166
+way/465013690,Centrale Dufferin,Boralex,45.5843896,-75.4178201
+way/466115439,,,45.5894845,-75.4222979
+way/467521424,Chatham-Kent PUC Solar Garden,,42.5787594,-82.4007555
+way/467526818,Moore Solar,NextEra Energy Canadian Operating Services,42.8681244,-82.4208244
+way/469847283,NRGreen Loreburn Heat Recovery Facility,NRGreen Power Limited Partnership,51.2404247,-106.6769549
+way/472428351,Burnside Combustion Turbine Power Plant,Nova Scotia Power,44.7146173,-63.6093399
+way/474979132,Black Tickle & Domino,Newfoundland and Labrador Hydro,53.4565169,-55.7660295
+way/475171749,Cartwright,Newfoundland and Labrador Hydro,53.7088221,-57.0138208
+way/475533694,SparkleLight Solar Farm,BluEarth Renewables,44.4614019,-79.0624749
+way/475681896,Amherstburg II,Enbridge,42.1150989,-83.0658058
+way/475681901,Enbridge Tilbury,Enbridge Income Fund,42.2742663,-82.4262451
+way/475879159,Erie Ridge Solar Field,,42.4441188,-81.8478803
+way/476436468,Little Creek Solar Project,Canadian Solar,44.2069397,-76.9249083
+way/476437730,Simcoe Solar Energy Centre 3,TerraForm Power,44.4183927,-78.8895727
+way/476445919,Simcoe Solar Energy Centre 1,TerraForm Power,44.477505,-78.963036
+way/476584835,Highlight Solar Project,CSI GP Val Caron Ltd. (Canadian Solar),46.6756962,-80.9196496
+way/476673224,Elmsley Solar East,EDF Renewables,44.8483083,-76.0701178
+way/476944429,First Light 2,SunEdison / Sky Power,44.2981124,-76.9430012
+way/477215391,Midhurst 2,Recurrent Energy,44.5391465,-79.7629022
+way/477215923,,,44.6565147,-79.8116367
+way/477215924,RayLight Solar Park,RayLight LP (aka Canadian Solar),44.6944886,-79.8458647
+way/477216474,Waubaushene 4,Recurrent Energy,44.7733967,-79.6369964
+way/477216475,Waubaushene 5,Recurrent Energy,44.7688458,-79.604045
+way/477217230,Midhurst 3,Recurrent Energy,44.4746888,-79.5707642
+way/477217231,Midhurst 4,Recurrent Energy,44.4721547,-79.5599227
+way/477222007,Penn Energy - Van Dorp Solar Projects,Port Hope Solar Farm Partnership,43.9478025,-78.3917559
+way/477222916,Hamilton (Port Hope 4) Solar Facility,Penn Energy,44.0234882,-78.1225109
+way/477222918,Hamilton (Port Hope 4) Solar Facility,Penn Energy,44.0168686,-78.1192682
+way/477222983,Alderville First Nation Solar Facility,Alderville First Nation,44.192398,-78.0953388
+way/477224400,CityLights Solar Farm,Renewable Energy Trust Capital Inc.,45.1591714,-75.2267105
+way/477224451,Mighty Solar Project,Concord Green Energy,45.124821,-75.2567083
+way/477224513,Parkway Solar,GS One-Parkway Solar Farm LP,45.304403,-75.4651638
+way/477224703,Alfred Solar Energy Project,SunE Alfred LP (SunEdison) formerly 2225049 Ontario Inc.,45.5377468,-74.8885393
+way/477225047,Elmsley Solar West,EDF Renewables,44.8402356,-76.0860637
+way/477766466,Welland Ridge Road Solar Project,SunE Welland Ridge GP Corp. operating as SunE Welland Ridge LP,42.9709349,-79.191964
+way/477766467,Welland Ridge Road Solar Project,SunE Welland Ridge GP Corp. operating as SunE Welland Ridge LP,42.9724097,-79.1971303
+way/477776381,SunEdison Bruining 1 Solar Project,SunE South Stormont GP Corp. (SunEdison),44.9867964,-75.0201524
+way/477900041,Abw Solar Belmont,First Solar,42.8909596,-81.1118888
+way/477900042,Abw Solar Belmont,First Solar,42.8937934,-81.1236343
+way/477900899,Adelaide 1,Met Axium Solar Adelaide 1 Limited Partnership,42.9651621,-81.6721907
+way/478513274,Charlottetown Diesel Generating Station,Newfoundland and Labrador Hydro,52.7729969,-56.1168208
+way/479982314,Beckwith Solar,"EffiSolar Energy, Engie Energy Services International and Mitsui. Engie Energy Services International",45.1664564,-76.1424592
+way/483138845,Centrale La Romaine-2,Hydro-Québec,50.6243883,-63.1942085
+way/483553769,Centrale La Romaine-1,Hydro-Québec,50.3859336,-63.2603079
+way/484300125,Roseplain Solar Farm,Roseplain General Partner 1 Inc. Roseplain General Partner 2 Inc. operating as Roseplain Solar Farm Partnership (Penn Energy),44.0613278,-79.1860785
+way/486151934,13th Side Road Solar Power Plant,Skypower,42.8587879,-80.3613328
+way/486151937,13th Side Road Solar Power Plant,Skypower,42.8533247,-80.3597503
+way/486229286,West Elgin Solar Farm,Intech,42.5641035,-81.6850567
+way/487238335,Breen 2,Recurrent Energy,42.9834965,-80.9620259
+way/487238336,Breen 2,Recurrent Energy,42.9870146,-80.9586187
+way/487456979,Complexe hydroélectrique de Shawinigan,Hydro-Québec,46.5361466,-72.7650528
+way/488285723,St Clair Energy Centre,,42.8972672,-82.3984247
+way/488365094,Amherstburg Solar,Capstone Infrastructure,42.1455384,-83.0777442
+way/488559119,Kap Solar Project,Ontario Solar PV Fields,49.3748736,-82.3928963
+way/489879533,Keeyask Generating Station,,56.3499678,-95.2020781
+way/490725972,Grand Rapids Generating Station,Manitoba Hydro,53.1601687,-99.2862219
+way/492366725,Gartshore Generating Station,Brookfield Renewable Energy,47.2400201,-84.5836865
+way/494491663,Pond Inlet Power Plant,Qulliq Energy Corporation,72.7008116,-77.9402177
+way/498377134,Nain Power Plant,Newfoundland and Labrador Hydro,56.5369893,-61.6903239
+way/498597452,Natuashish,Mushuau Innu First Nation,55.920049,-61.1257181
+way/502403916,Hydo Quebec Kangiqsualujjuaq,Hydo Quebec,58.6990217,-65.9439261
+way/504071344,Northwest Territories Power CorporationvGamèti,Northwest Territories Power Corporation,64.1132152,-117.3503783
+way/504399319,ᐊᐅᐸᓗᒃ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Aupaluk (village),Hydo Quebec,59.3067315,-69.6047732
+way/506292352,Hydro Quebec Puvirnituq,Hydro-Québec,60.0361072,-77.2653601
+way/507049841,Electrical Generating Station,Northwest Territories Power Corporation,64.8979,-125.5494949
+way/507065152,Hydro Quebec Ivujivik,Hydro-Québec,62.4174063,-77.917884
+way/508759389,Grand Manan Power Station,NB Power,44.6610463,-66.7589295
+way/509060713,ᐊᐅᔪᐃᑦᑐᖅ Grise Fiord Power Plant,Qulliq Energy Corporation,76.41719,-82.8913033
+way/509105980,Calgary Energy Centre,Enmax,51.1813624,-113.9370332
+way/509135604,Shepard Energy Centre,Enmax / Capital Power,50.9700724,-113.8849448
+way/509137528,Balzac Power Station,Nexen,51.1925587,-113.9413711
+way/509139474,Cavalier Energy Centre,Enmax,51.0056998,-113.1715398
+way/510260101,Centrale de la Toulnustouc,Hydro-Québec,49.9706285,-68.1593972
+way/510571192,Cambridge Bay Power Plant,Qulliq Energy Corporation,69.1157556,-105.0560366
+way/510844848,Centrale Bersimis 1,Hydro-Québec,49.2933544,-69.5515852
+way/511564524,Naujaat,Qulliq Energy Corporation,66.5271374,-86.2391098
+way/512328113,Gjoa Haven,Qulliq Energy Corporation,68.6246537,-95.871089
+way/512873950,Qulliq Energy Corporation Clyde River,Qulliq Energy Corporation,70.4693669,-68.59577
+way/512906991,Qikiqtarjuaq Power Plant,Qulliq Energy Corporation,67.5564184,-64.025411
+way/513311940,Tuktoyaktuk Power Plant,Northwest Territories Power Corporation,69.4203112,-133.0004577
+way/514000842,Sarnia Regional Cogeneration Plant,TransAlta,42.9352618,-82.4386637
+way/514780792,Kugluktuk Power Plant,Qulliq Energy Corporation,67.823346,-115.0864491
+way/518003874,Centrale de Magpie,Innergex,50.3226777,-64.4543695
+way/519767567,Belleville South Generating Station,Northland Power,44.0629746,-77.3153133
+way/521066523,Mattawiskwia Solar Project,Ontario Solar PV Fields,49.6784938,-83.6865248
+way/521066524,Mattawiskwia Solar Project,Ontario Solar PV Fields,49.6814581,-83.6966104
+way/521449156,GoodLight Solar Project,BluEarth Renewables,44.5113421,-78.9890788
+way/521449157,GoodLight Solar Project,BluEarth Renewables,44.5103792,-78.9959532
+way/525387527,Stone Mills,DIF Infrastructure,44.2958221,-76.8954456
+way/525387529,Kingston Gardiner TS Odessa Solar Project,Axio Power and SunEdison,44.2690658,-76.7705969
+way/525760569,Sechelt Creek Generating Station,,49.6775238,-123.5481044
+way/525762967,Clowhom Powerhouse,,49.710923,-123.5321402
+way/525763316,,,49.7481067,-123.5159068
+way/525766958,,,49.7953499,-123.5718299
+way/533642342,Centrale La Romaine-3,Hydro-Québec,51.1140809,-63.4002925
+way/546733447,Burritts Rapids Solar Farm,Canadian Solar,44.9806757,-75.8224247
+way/547109988,City of Surrey District Energy Boiler Plant,Fir District Heating;All-Pro Services,49.1812214,-122.8413215
+way/550179813,Aménagement hydroélectrique Sheldrake,MRC de Minganie et Nation Innu d'Ekuanitshit,50.3132744,-64.9093228
+way/551541766,Ashlu Creek Generating Station,Innergex,49.9143526,-123.3250442
+way/553104099,Mississippi Mills Solar Park,Canadian Solar,45.3020483,-76.2440122
+way/553899385,Doran Taylor Hydro,Summit Power,49.2964191,-125.2755385
+way/562572819,Island Falls Hydroelectric Station,,55.5273923,-102.3552322
+way/562918438,GoldLight Solar Project,GoldLight LP (Canadian Solar),44.2900191,-79.2966358
+way/563065506,Fall Pond Hydro Electric Station,Newfoundland Power,46.928699,-55.35741
+way/563742964,Silver Falls Generating Station,Ontario Power Generation,48.6609365,-89.5969619
+way/565448115,Caribou Falls Generation Station,Ontario Power Generation,50.2623711,-94.9743667
+way/570717592,Okikendawt Hydroelectric Project,Dokis First Nation,46.1236509,-80.0145592
+way/571127017,McCann Solar Project,Northland Power Inc.,44.6846234,-76.2737337
+way/571127018,Newboro 1,SunEdison,44.6751599,-76.2681011
+way/571127019,Rideau Lakes Generating Station,Northland Power,44.665984,-76.2776323
+way/571127020,Crosby Generating Station,Northland Power,44.6690801,-76.308015
+way/576459218,Battle River Generating Station,ATCO Power,52.4684656,-112.1296192
+way/578677460,Ruth Falls Hydro Station,Nova Scotia Power,44.9340804,-62.5005312
+way/580284138,Malay Falls Hydroelectric Plant,Nova Scotia Power,44.9876295,-62.4841493
+way/580987489,Newsboro 4,SunEdison,44.651988,-76.355641
+way/580989594,Belleville North Generating Station,Northland Power,44.0624082,-77.3360138
+way/580991738,Burk's Falls West Solar Project,Northland Power,45.6098121,-79.4220919
+way/580991740,Burk's Falls East Solar Project,Northland Power,45.6100784,-79.3557354
+way/583369575,Longueuil TS Malbouef,,45.5707006,-74.8191274
+way/583496095,Waterton Hydro,,49.3290888,-113.6731956
+way/585405404,Centrale de Grand-Mère,,46.615147,-72.679051
+way/585997438,Chute-aux-Galets,Resolute Forest Products,48.6511183,-71.2032566
+way/585997620,Centrale Adam-Cunningham,Produits forestiers Resolu,48.6581153,-71.1707956
+way/594785944,Fall River Hydro Plant,Nova Scotia Power,44.8070436,-63.6049741
+way/595665959,Centrale des Rapides-des-Îles,,47.5768442,-79.3547164
+way/595665973,Centrale de Rapide-2,,47.9337043,-78.5764053
+way/595666022,Centrale de Rapide-7,,47.7684913,-78.3101319
+way/595675031,Centrale des Rapides-des-Quinze,Hydro Quebec,47.5911551,-79.2941591
+way/604960344,Mobile Hydro Plant,Newfoundland Power,47.2479118,-52.8417626
+way/606151066,Centrale Lefrançois,Innergex inc.,46.4235016,-72.9682984
+way/609989893,Balsam Lake Solar Farm,Balsam Lake Green Energy,44.649704,-78.7581861
+way/610215390,Aishihik Hydro Plant,Yukon Energy Corporation,61.0359103,-137.0538055
+way/610215391,Faro Diesel Facility,Yukon Energy,62.2333258,-133.3616437
+way/610832060,South Glengarry Solar Project,Penn Energy,45.1079537,-74.6850318
+way/610905716,Brockville 2 Solar Facility,Axium Infinity Solar,44.6315354,-75.8043713
+way/611235503,Saint Isidore Solar,EDF Renewables,45.4290031,-74.9379453
+way/612709465,Midhurst 6,Recurrent Energy,44.4762094,-79.7213861
+way/614144503,Williams Lake Power Plant,Atlantic Power Corporation,52.162437,-122.170283
+way/614612313,Seven Mile Dam Generating Station,FortisBC,49.0301426,-117.5043122
+way/617704922,Sachs Harbour (Ikaahuk),NWT Power Corporation,71.986143,-125.2530555
+way/628367550,Hinds Lake Generating Station,,49.0824826,-57.2011364
+way/629531442,Avon,Nova Scotia Power,44.8815008,-64.2172921
+way/639142492,Durham York Energy Centre,Regional Municipalities Of Durham And York,43.8741318,-78.7530777
+way/639142496,Kingston Generating Station,Northland Power,44.2100066,-76.7247009
+way/656363538,Brewers Mills Generating Station,Hydro One,44.4152805,-76.3110535
+way/656579672,Kuujjuaq Power Plant,Hydro-Québec,58.1149112,-68.4251316
+way/658942647,,,45.0625083,-79.3106007
+way/658942848,High Falls Generating Station,,45.088897,-79.303214
+way/658954149,Star Lake Hydroelectric Generating Station,"Enel Green Power, Newfoundland and Labrador Hydro",48.5524846,-57.2055807
+way/659058908,Bracebridge Falls Generating Station,Bracebridge Generating Ltd,45.0387735,-79.308629
+way/659165525,Hanna Chute Generating Station,Ontario Power Generation,45.0008415,-79.297735
+way/659510375,Ragged Rapids Generating Station,Ontario Power Generation,45.017933,-79.6883375
+way/659607554,Matthias Generating Station,Orillia Power Generation,44.9933727,-79.201891
+way/659607671,Trethewey Falls Generating Station,Ontario Power Generation,44.9883445,-79.271322
+way/660048658,Coral Harbour,Qulliq Energy Corporation,64.1407027,-83.1708485
+way/660564563,Swift Rapids Generating Station,Ontario Power Generation,44.8569325,-79.5396148
+way/662750731,Campbellford Generating Station,Peterborough Utilities,44.3352298,-77.772476
+way/663688131,,Robert G. Lake Generating Station,44.3652751,-78.2928333
+way/665102083,Peter Sutherland Sr. Generating Station,,49.9621063,-81.5232047
+way/667226563,Sunny Shores Solar Project (Glen Manor),Spark Solar,44.0548309,-77.1555984
+way/667226565,Sunny Shores Solar Project (Glen Manor),Spark Solar,44.0572935,-77.163232
+way/667233874,Belleville TS Demorestville Solar Energy Project,2225051 Ontario Inc. (also Axio Power and SunEdison),44.0658762,-77.2586918
+way/669036747,Abw Solar Walpole,First Solar,42.9367575,-80.1431367
+way/669530530,Sombra Solar Energy Centre,NextEra Energy Canadian Operating Services,42.7114408,-82.4611152
+way/670002031,Silvercreek Solar Park,Silvercreek Solar Park,42.6967787,-80.9752712
+way/671113689,St. George Dam,St. George Power,45.1282942,-66.8273929
+way/671926664,North Burgess Generating Station,Northland Power,44.8178571,-76.3072693
+way/672195496,Scott’s Dam,Algonquin Power,44.5560162,-77.823443
+way/672701626,Minicentrale Thibaudeau-Ricard,Shipiss Inc.,46.5486787,-72.7595739
+way/685648315,Fort Nelson,BC Hydro,58.652031,-122.6920638
+way/685989979,Rainbow Lake Power Plant,,58.4489454,-119.2351073
+way/687893467,Fort William,SkyPower,48.3617161,-89.2541231
+way/689956767,Grand Manan Power Station,NB Power - Grand Manan,44.6612473,-66.7585973
+way/710686731,Tŝilhqot’in Solar Farm,Tŝilhqot'in Nation,51.9359472,-122.9784749
+way/711796457,NB Power Belledune Generating Station,NB Power,47.9038101,-65.8667587
+way/718025755,North Power House,McGill University,45.4085056,-73.9377286
+way/724661086,Bioenergy Research & Demonstration Facility,,49.2602963,-123.2545221
+way/724724612,Merrickville Generating Station,Ontario Power Generation,44.9178634,-75.8372822
+way/725679683,Centrale de cogénération de Bécancour,TC Énergie,46.3680323,-72.4027316
+way/728734956,,TransAlta,50.9984724,-115.3746372
+way/730124158,Illumination,Illumination LP (Canadian Solar),44.0596365,-78.8641269
+way/730124779,Marsh Hill Solar Farm,2327461 Ontario Inc.,44.1504876,-79.0490897
+way/730657924,Hybridyne Solar Project,Hybridyne Power Generation Site A Inc.,43.9293086,-78.5463288
+way/732008131,Windsor Solar Farm,Samsung Renewable Energy,42.2839671,-82.9322596
+way/732008135,Windsor Solar Project,Samsung Renewable Energy,42.2759339,-82.94139
+way/732034684,Orillia 3 Solar,Orillia 3 ULC,44.5691934,-79.4831564
+way/732034688,Oro-Medonte Solar Farm,BlackRock,44.502954,-79.6123534
+way/733930364,Centrale thermique,,61.6888426,-73.6767909
+way/734607030,Inuvik Power Plant,Northwest Territories Power Corporation,68.3551361,-133.7293143
+way/735233448,Heywood Generating Station.,St. Catharines Hydro Generation,43.1989699,-79.2647495
+way/739170284,Centrale La Romaine-4,Hydro-Québec,51.348901,-63.488654
+way/739767035,,,46.5354632,-84.2565127
+way/743751009,Enerdu,Enerdu Power Systems,45.2267552,-76.1964385
+way/744816646,Wainright Solar Park,Ontario Solar PV Fields 1LP,49.8366956,-92.8432348
+way/750221108,Summerside Diesel Generation Plant,Summerside Electric,46.3946905,-63.7814428
+way/750529296,Green Electron Power Plant,,42.7868754,-82.4275301
+way/753509453,Shand Power Station,,49.0876147,-102.8650492
+way/753661322,Wahleach Power Station,,49.2366317,-121.6805175
+way/753903246,Wuskwatim Hydroelectric Plant,,55.5383202,-98.4937822
+way/756224915,Snare Forks Hydroelectric Power Station,Northwest Territories Power Corporation,63.3254552,-116.2981819
+way/756224919,Snare Cascades Hydro Plant,Northwest Territories Power Corporation,63.4214486,-116.2240218
+way/756224923,Snare Rapids Hydro Plant,Northwest Territories Power Corporation,63.5113139,-116.0057893
+way/756224926,Snare Falls,Northwest Territories Power Corporation,63.4391939,-116.1885444
+way/762064522,Qulliq Energy Corp Taloyoak,Qulliq Energy Corp,69.5400576,-93.5257414
+way/765857633,Grand Falls Generating Station,New Brunswick Power Corporation,47.0428762,-67.7368124
+way/779613540,LunarLight Solar Farm,Renewable Energy Trust Capital Inc.,44.3192422,-77.4316748
+way/779642435,Sunderland Solar Farm,2327049 Ontario Inc. Solray,44.2804235,-79.0347017
+way/779742684,Norfolk-Bloomsburg TS Solar Project,2225050 Ontario Inc. (c/o Axio Power),42.8749577,-80.2966476
+way/779742690,Ryerse,SkyPower,42.7838798,-80.265963
+way/785500586,Prise d'eau Bersimis 1,Hydro-Québec,49.3115123,-69.7168881
+way/785520774,Centrale Hydro-Canyon Saint-Joachim,Société Hydro-Canyon Saint-Joachim,47.0725167,-70.8767153
+way/805804125,Cory Cogeneration Station,,52.0923399,-106.848528
+way/805804129,Valleyview 1 / 2,ATCO Power,54.9390308,-117.2033995
+way/816252708,Centrale de Donnacona,"Société Hydro Donnacona, S.E.N.C",46.678478,-71.7455473
+way/816297043,Centrale McDougall,R.S.P. Énergie inc.,46.740488,-71.6956035
+way/818906774,Summerside Sunbank,City of Summerside,46.4007803,-63.8019486
+way/818927558,Centrale hydroélectrique de Portneuf 3,Innergex,48.6914006,-69.3389976
+way/825061643,Burnaby Mountain District Energy Utility,Corix Multi-Utility Services Inc,49.2764926,-122.9176604
+way/826548842,Conestoga College Solar Farm,Conestoga College,43.3843726,-80.3997641
+way/828837887,,,42.8533675,-80.7015812
+way/829918947,Barr Creek,,49.9278268,-126.7603374
+way/838828520,Mini-centrale de la 11e chute,Énergie hydroélectrique Mistassini,49.0145944,-72.4854194
+way/843210623,Smiths Falls 4 Solar Facility,Recurrent Energy,44.9441553,-76.1378751
+way/843210630,Smiths Falls 3 Solar Facility,Recurrent Energy,44.9301043,-76.1192259
+way/843219679,Smiths Falls 2 Solar Facility,Recurrent Energy,44.9538923,-76.1164799
+way/848036322,Primrose South Power Plant,,54.6962559,-110.7273193
+way/849594269,Centrale hydroélectrique de Portneuf 1,Innergex,48.6585853,-69.1325958
+way/851588125,Victoria Power Station,NL Power,47.775172,-53.2155008
+way/854049118,Spy Hill Power Plant,Northland Power Inc.,50.5990027,-101.8481433
+way/854067431,Chapais-Énergie,Nexolia,49.7720839,-74.8572738
+way/858261113,Pouvoir Riverin,Algonquin Power,49.7858069,-67.1570731
+way/860265960,Shepard Solar Park,City of Calgray,50.9391054,-113.9322174
+way/865952439,Dawson Diesel Facility,Yukon Energy Corporation,64.054452,-139.440073
+way/886264591,Drummondville,Waste Managemrnt,45.8225573,-72.3689136
+way/888214767,Bayside Generating Station,NB Power,45.2756545,-66.0267988
+way/892823372,Galetta Hydro Station,TransAlta,45.4256623,-76.2536578
+way/893064542,Ranney Falls Generating Station 1,Ontario Power Generation,44.2927583,-77.8016563
+way/893079906,Hagues Reach Generating Station,Ontario Power Generation,44.2751942,-77.7954082
+way/898567376,Stave Falls Dam,BC Hydro,49.2293825,-122.3548928
+way/898593171,Alouette Lake Generating Station,BC Hydro,49.3711257,-122.313309
+way/904892380,FotoLight Solar Farm,Renewable Energy Trust Capital Inc.,44.024037,-77.0917023
+way/908761004,Granite Canal Hydroelectric Generating Station,,48.1967125,-56.8150306
+way/908822933,Centrale de Chute-des-Passes,Rio Tinto Alcan,49.8402278,-71.1663276
+way/910881711,Point Aconi Generating Station,Nova Scotia Power,46.320315,-60.3288246
+way/911058617,Laurie River Generating Station Two,,56.2508213,-101.1172722
+way/911058618,Laurie River Generating Station,Manitoba Hydro,56.2248373,-101.0101234
+way/911898186,Jimmie Creek Hydroelectric Project,Innergex,50.6051962,-124.0254561
+way/912367463,Boulder Creek Hydro,,50.6352304,-123.4068006
+way/912367464,Upper Lillooet River,,50.6559907,-123.4458133
+way/912758766,,,52.2553112,-119.1809757
+way/914799528,Silversmith,Silversmith Power and Light,49.9749771,-117.2257456
+way/917122687,Centrale électrique,,45.5589988,-73.617654
+way/924986352,Meridian Cogeneration Power Plant,SaskPower,53.2592911,-109.9523909
+way/926877328,Heating Plant,Kentville Research and Development Centre,45.0681528,-64.4772591
+way/927994162,Lake Superior Power Plant,,46.5155444,-84.3695443
+way/928689231,Tusket Hydroelectric Station,Nova Scotia Power,43.8820954,-65.9777261
+way/930449246,Cavendish Farms Wellness Center,Cavendish Farms Wellness Center,46.1559288,-62.6447228
+way/932617226,Joffre Cogeneration CCGT Power Plant,"Heartland Generation Ltd., Capital Power",52.308312,-113.5464932
+way/934879592,Gordon M. Shrum Generating Station,BC Hydro,56.0144331,-122.1963066
+way/936193378,Poplar Creek Power Plant,,57.0077286,-111.4869763
+way/936535961,Chinook Power Station,SaskPower,50.3442002,-107.9378492
+way/938177136,Brandon Manitoba Gas Power Plant,,49.8434797,-99.8933988
+way/938230606,Thorold Power Plant,,43.1065694,-79.1985313
+way/939448993,Dow Chemical Fort Saskatchewan Alberta Power Plant,,53.7364642,-113.1725099
+way/941661442,Horizon Oil Sands Power Plant,,57.3389274,-111.7577352
+way/942955949,Fort Simpson Solar Energy Project,Northwest Territories Power Corporation,61.7605049,-121.2290603
+way/943006913,Colville Lake Solar Project,Northwest Territories Power Corporation,67.0361874,-126.0724833
+way/943384530,Muskeg River Cogeneration,,57.2527089,-111.5043463
+way/943388438,Aurora Mine Power Plant,,57.2978122,-111.5057326
+way/943390592,Scotford Cogeneration Power Plant,,53.7984865,-113.0941906
+way/943391479,Nabiye Power Plant,,54.7270583,-110.3457573
+way/943392315,Christina Lake MEG Power Plant,,55.6650817,-110.7196256
+way/943603653,Tweed Mill Dam,,44.4794609,-77.3129513
+way/944875198,Yellowhead Power Plant,SaskPower,52.7239123,-108.2329026
+way/946658225,,,45.4152327,-76.144514
+way/949716712,Mine Raglan,,61.6911918,-73.678497
+way/955168085,Maxim Cogeneration Powerhouse,Maxim Power Corporation,49.0876774,-122.9960946
+way/955172877,Eagle Lake Micro Hydro Project,Pacific Cascade Hydro Inc,49.3687039,-123.2379447
+way/955195536,Sakwi Creek Hydro Project,CC&L Infrastructure;WindRiver Power Corporation,49.3326455,-121.88021
+way/955203884,Skookum Creek Powerhouse,Run of River Power,49.7206769,-122.9952042
+way/955203885,Mamquam Generating Station,Atlantic Power,49.7213166,-123.0918511
+way/955207491,Upper Mamquam,TransAlta,49.7194715,-123.0429114
+way/958535902,Walter Hardman Generating Station,BC Hydro,50.8138778,-118.0599562
+way/963375069,Point Lepreau Nuclear Generating Station,NB Power,45.074361,-66.4551907
+way/967656575,Ocean Falls,,52.351023,-127.6863959
+way/970797731,Mears Creek,,49.872018,-126.2136682
+way/970980786,Taltson Hydroelectric Power Plant,Northwest Territories Power Corporation,60.4185149,-111.3950865
+way/970980787,Taltson Emergency Standby Diesel Generator,Northwest Territories Power Corporation,60.4185483,-111.3936293
+way/972892019,Cardinal Power Plant,,44.7846114,-75.3767369
+way/980373557,West Village Energy Centre,City of Surrey,49.190851,-122.8550842
+way/980643603,Deerfoot Solar Park,DP Energy,50.9447967,-113.9642319
+way/984026461,,,51.3653404,-116.5269173
+way/987810020,Barlow Solar,EDF Renewables,45.0463292,-74.8140233
+way/993089447,Kananaskis Plant,TransAlta,51.0971493,-115.0579253
+way/996139006,Lower Clowhom,,49.817576,-123.3974333
+way/996139011,,,49.8542172,-123.4462206
+way/996757305,Brooks Solar 1,Elemental Energy,50.5764712,-111.868227
+way/996951204,Innisfail Solar,Elemental Energy,52.0463658,-113.9745126
+way/996951205,Alberta Solar One,"Enbridge, Morgan Solar Inc",49.8400934,-111.5708018
+way/996951206,Burdett Solar,BluEarth Renewables,49.8184313,-111.5455356
+way/996951207,Yellow Lake Solar,BluEarth Renewables,49.6518729,-111.5115035
+way/996951208,Suffield Solar Facility,BluEarth Renewables,50.2701445,-111.2724222
+way/996951209,Jenner Solar,Canadian Solar,50.7505958,-111.1239671
+way/996951210,Claresholm Solar 1,Capstone Infrastructure,50.0559523,-113.4247434
+way/996951211,Claresholm Solar 2,Capstone Infrastructure,50.0502276,-113.3996633
+way/996951212,Hays Solar,Canadian Solar,50.0831526,-111.7748571
+way/996951213,Prairie Sunlight III Solar,Solar Krafte Utilities,50.0952209,-112.1116066
+way/996951214,Prairie Sunlight II Solar,Solar Krafte Utilities,49.9934919,-112.0454318
+way/997970992,Travers Solar,Travers 2 Solar LP,50.2554961,-112.7308136
+way/997975315,East Strathmore Solar Project,Elemental Energy,51.0269799,-113.1619154
+way/997975317,Wrentham Solar Project,Solar Krafte,49.5196191,-112.0344357
+way/997975319,kīsikāw pīsim Solar Farm,EPCOR,53.468708,-113.6113983
+way/998446586,Dickson Dam,Algonquin Power,52.0523341,-114.2223202
+way/999608922,Moresby Lake IPP,,52.9344387,-132.1281544
+way/1000587596,Sree Vyah Solar Project,Vuntut Gwitchin First Nation,67.5715073,-139.8411101
+way/1000589722,Mica,BC Hydro,52.0750897,-118.5722715
+way/1002008263,,,49.910576,-118.072278
+way/1004668984,Site C Powerhouse,BC Hydro,56.1903875,-120.9131332
+way/1015718877,Wellington Power Station,SaskPower,59.6284993,-109.0190393
+way/1015957840,Waterloo Power Station,SaskPower,59.631394,-109.0572226
+way/1015958397,Charlot River Power Station,SaskPower,59.6117251,-109.114532
+way/1015999637,Meadow Lake Power Station,SaskPower,54.0881789,-108.4373927
+way/1016440372,Bécancour gas turbine,Hydro-Québec,46.3919635,-72.3525345
+way/1016740938,Highfield Solar Facility,Saturn Power,50.1307036,-107.4346568
+way/1017022523,Calm Lake Generating Station,,48.793394,-92.15345
+way/1017023159,Sturgeon Falls Generating Station,,48.7442453,-92.2836597
+way/1027259325,WindCharger Battery Storage,TransAlta,49.5828495,-113.7942362
+way/1028211523,Centrale de Port-Menier,Hydro-Québec,49.8128592,-64.3402997
+way/1030443290,Grand Lake Generating Station,NB Power,46.059035,-66.0029189
+way/1039739760,,,48.0777738,-84.73935
+way/1041741659,Glen Mills Generating Station,Innergex,44.1523712,-77.5819043
+way/1042032253,Paradise River Hydroelectric Generating Station,Newfoundland and Labrador Hydro,47.6181756,-54.4314994
+way/1042032425,Upper Salmon Hydroelectric Development,Bay D'Espoir Hydroelectric Development,48.1834631,-56.172527
+way/1042054533,Mayo B Hydro Plant,Yukon Energy,63.632909,-135.9284824
+way/1042054534,Mayo A Hydro Plant,Yukun Energy,63.6537337,-135.9156135
+way/1050394368,L'Anse au Loup,Newfoundland and Labrador Hydro,51.5189289,-56.8393246
+way/1054979923,Creative Energy Beatty Steam Plant,Creative Energy,49.2781725,-123.112437
+way/1058688678,SunMine,Teck Resources Limited,49.6689044,-115.9480676
+way/1063360483,The Bioenergy Plant,University of Northern British Columbia,53.8929555,-122.8169874
+way/1063420235,Tsay Keh Dene Bioenergy Plant,Tsay Keh Dene First Nation,56.8989413,-124.9744747
+way/1064378277,,River District Energy,49.2059616,-123.0291184
+way/1064378278,,River District Energy,49.2054359,-123.0364981
+way/1066228374,Coaldale Solar,Concord Coaldale Partnership,49.8077099,-112.5783874
+way/1066228375,Monarch Solar,Concord Monarch Partnership,49.833078,-112.9749819
+way/1066228376,Barlow Solar Park,DP Energy,50.9541618,-113.9874934
+way/1078967190,Clydesdale Solar,Capital Power,50.2899178,-112.4100739
+way/1078967639,Chappice Lake Solar-Storage Project,Elemental Energy,50.2188744,-110.4426739
+way/1081211222,Cold Lake Project Mahkeses Power Station,,54.5843475,-110.3945165
+way/1081537364,Loyalist Solar,BluEarth Renewables,44.338613,-76.976051
+way/1081803951,Penn Energy - Ridgefield Solar Project,Ridgefield Solar Farm Partnership,44.4424189,-78.6890343
+way/1081805360,EarthLight Solar Farm,EarthLight LP (Canadian Solar),44.2844666,-79.2833361
+way/1081805361,EarthLight Solar Farm,EarthLight LP (Canadian Solar),44.2811018,-79.2882061
+way/1081805362,EarthLight Solar Farm,EarthLight LP (Canadian Solar),44.2766802,-79.2862525
+way/1081811202,Solar Spirit 4 Solar Farm,2224375 Ontario Inc. (SunEdison),44.234608,-77.3634921
+way/1081811203,Solar Spirit 4 Solar Farm,2224375 Ontario Inc. (SunEdison),44.2385755,-77.3616057
+way/1081811204,Solar Spirit 4 Solar Farm,2224375 Ontario Inc. (SunEdison),44.2396063,-77.3664842
+way/1081811205,Solar Spirit 4 Solar Farm,2224375 Ontario Inc. (SunEdison),44.2330559,-77.3570556
+way/1081822293,Ramore Solar Project,Ontario Solar PV Fields,48.4402499,-80.3298639
+way/1081822294,Ramore Solar Project,Ontario Solar PV Fields,48.4415694,-80.3256806
+way/1081823319,Ingersoll 1,Recurrent Energy,43.0845133,-80.8470249
+way/1081823320,Ingersoll 1,Recurrent Energy,43.086883,-80.8457772
+way/1081823321,Ingersoll 1,Recurrent Energy,43.0867649,-80.8479861
+way/1081823322,Ingersoll 1,Recurrent Energy,43.0888822,-80.8441902
+way/1081823323,Ingersoll 1,Recurrent Energy,43.0902737,-80.8467199
+way/1081823324,Ingersoll 1,Recurrent Energy,43.0897178,-80.8418879
+way/1081823325,Ingersoll 1,Recurrent Energy,43.0872384,-80.8430741
+way/1081825543,Sunningdale 1 Solar Energy Project,RE Sunningdale 1 ULC,43.0733527,-81.1578062
+way/1081825544,Sunningdale 1 Solar Energy Project,RE Sunningdale 1 ULC,43.0717406,-81.1540845
+way/1081828096,Northland Power Long Lakes Solar Project,Northland Power Solar Long Lakes Inc. operating as Northland Power Solar Long Lake L.P.,49.1418515,-81.2846484
+way/1081832659,Orillia 2,Recurrent Energy,44.5796265,-79.4998434
+way/1081833625,Beamlight Solar Project,Concorde,44.2574444,-79.2888608
+way/1081837378,Lindsay Solar Farm,"Perpetual Energy Systems, LLC",44.4328359,-78.6981203
+way/1081854678,Green Acres Solar Farm,Hutterite Colony,50.9060353,-112.7089664
+way/1081857039,,,48.9432715,-88.3145138
+way/1082101150,3NE Solar Farm,Three Nations Energy,58.7653108,-111.1033944
+way/1083358974,Pelee Island Backup Generator,Hydro One,41.7571669,-82.6702706
+way/1087621261,Fort Frances Generating Station,H2O Power,48.6090468,-93.4023648
+way/1089924854,Muskrat Falls,Newfoundland and Labrador Hydro,53.2433607,-60.7640522
+way/1092480538,Nictaux Falls,Nove Scotia Power,44.909041,-65.0299197
+way/1093775374,St. Anthony Diesel Power Station,Newfoundland and Labrador Hydro,51.3841442,-55.5914829
+way/1093959531,Tusket Combustion Turbine,Nova Scotia Power,43.8600184,-65.9933712
+way/1094006474,Paradise Hydroelectric,Nova Scotia Power,44.8356226,-65.2388945
+way/1094010649,Roseway Hydro,Nova Scotia Power,43.7823453,-65.3438912
+way/1094386311,Dickie Brook,Nova Scotia Power,45.3491649,-61.5032433
+way/1094634173,Harmony,Nova Scotia Power,44.4168025,-65.0558481
+way/1094658629,Factorydale Hydro,Berwick Power Commission,44.9902663,-64.7834309
+way/1096166858,Amherst Solar Garden,Nova Scotia Power,45.8138387,-64.224023
+way/1096399035,Fisher River,Fisher River Cree Nation,51.4405323,-97.3847811
+way/1097111797,,,44.3049628,-64.3498881
+way/1097397776,Brooklyn Power,Emera Energy,44.0591938,-64.6931492
+way/1101508046,Wheatcrest Solar Project,BluEarth Renewables,50.269996,-112.3985994
+way/1103247062,,,43.6534606,-79.3352446
+way/1103691740,Centrale Robert-A.-Boyd,Hydro-Québec,45.6204704,-73.3787322
+way/1103951695,,,47.6688685,-79.7047952
+way/1111101090,,,47.5277195,-79.7366803
+way/1118730314,Fundy Ocean Research Centre for Energy,Fundy Ocean Research Centre for Energy,45.3718428,-64.4030312
+way/1119734978,Fundy Ocean Research Center for Energy,Fundy Ocean Research Centre for Energy,45.3677928,-64.4103014
+way/1120866820,Municipality of the County of Kings,Municipality of the County of Kings,45.0701327,-64.5620665
+way/1120885717,Elmsdale Battey Storage,Nova Scotia Power,44.9635376,-63.4990303
+way/1121894657,Long Lake Cogeneration Power Station,,56.408356,-110.9487127
+way/1125082017,Berwick Solar Garden,Alternative Resource Energy Authority,45.0573031,-64.727648
+way/1125107034,Arctic Bay,Qulliq Energy Corporation,73.0323696,-85.1059959
+way/1125944758,Snare Forks Standby Generator,Northwest Territories Power Corporation,63.3253034,-116.29836
+way/1126405443,Andrews Generating Station,Brookfield Renewable Energy,47.2376097,-84.6447591
+way/1126405445,Hogg Generating Station,Brookfield Renewable Energy,47.2134893,-84.6188294
+way/1127655288,WEICan R&D Park Auxiliary,Wind Energy Institute of Canada,47.0330106,-64.0167575
+way/1127655289,WEICan R&D Park,Wind Energy Institute of Canada,47.0328228,-64.0170497
+way/1127939947,Storage Inn,,46.2731167,-63.1577812
+way/1130642520,Greenhill Gas Turbine,Newfoundland Power,46.9426641,-55.3844668
+way/1130761643,Wesleyville Gas Turbine,,49.1570901,-53.577695
+way/1130956691,Vulcan Solar,,50.3645116,-113.2273941
+way/1130956692,Michichi Solar,Capstone Infrastructure,51.4965857,-112.7062625
+way/1130956693,Kneehill Solar,Capstone Infrastructure,51.7400327,-113.2823626
+way/1131067917,Lookout Brook Hydro Plant,Newfoundland Power,48.3661706,-58.29397
+way/1132498776,Centrale Blanc-Sablon,Hydro-Québec,51.4229028,-57.1528813
+way/1133280013,New Chelsea,Newfoundland Power,48.0291428,-53.2104116
+way/1133294822,Heart's Content,Newfoundland Power,47.8628039,-53.3758131
+way/1133347220,St. Brendan's,Newfoundland and Labrador Hydro,48.8731349,-53.6704329
+way/1133607805,Hawke's Bay,,50.6139429,-57.1629997
+way/1133905294,Lockston Plant,Newfoundland Power,48.4008404,-53.378676
+way/1133909507,Port Union Plant,Newfoundland Power,48.4981161,-53.0902492
+way/1133941801,Horsechops Plant,Newfoundland Power,47.1319086,-52.9816586
+way/1134156873,,Newfoundland Power,47.2104152,-52.8951067
+way/1134284127,Matabitchuan Generating Station,Ontario Power Generation,47.1232947,-79.4945496
+way/1134389441,Mine Raglan,,61.6910013,-73.6763869
+way/1134403141,IKEA Halifax,IKEA,44.7131413,-63.5582737
+way/1134538477,Roddickton Hydro Plant,Newfoundland Labrador Hydro,50.8913881,-56.0544387
+way/1134643085,,,50.0929641,-110.7350558
+way/1134973655,Sisson Generating Station,NB Power,47.2659755,-67.2433813
+way/1135268931,Paulatuk,NWT Power Corporation,69.351003,-124.0736366
+way/1135318464,Aklavik,Northwest Territories Power Corporation,68.2269764,-135.017426
+way/1135320671,Colville Lake,Northwest Territories Power Corporation,67.0367256,-126.0740401
+way/1135333992,Fort Liard Power Station,Northwest Territories Power Corporation,60.2394461,-123.4736439
+way/1135470973,Northbrook Police Training Facility,Halifax Regional Municipality.,44.6773457,-63.5814306
+way/1135472099,Alderney Gate Public Library,Halifax Regional Municipality,44.664408,-63.5690574
+way/1135473072,Dartmouth North Community Centre,Halifax Regional Municipality.,44.6839176,-63.588781
+way/1135473650,Sackville Public Library,Halifax Regional Municipality,44.7686514,-63.6880903
+way/1135474377,Mackintosh Depot,Halifax Regional Municipality,44.6647603,-63.6223532
+way/1135519220,Fire Station 3,Halifax Regional Municipality,44.6535875,-63.5899223
+way/1135522967,Sir Sanford Fleming Park Canteen,Halifax Regional Municipality,44.6295739,-63.5976218
+way/1135523810,Fort Needham Memorial Park Washroom,Halifax Regional Municipality,44.664407,-63.5991338
+way/1135525443,Fire Station 62 - Williamswood,Halifax Regional Municipality,44.5197979,-63.6423919
+way/1135531848,Chocolate Lake Beach Washroom,Halifax Regional Municipality,44.6380013,-63.620476
+way/1137492796,,Halifax Regional Water Commission,44.6537767,-63.580439
+way/1137619715,Pictou Landing First Nation Training Centre,Pictou Landing First Nation,45.6743181,-62.6523077
+way/1137622133,Rockingham United Church,Rockingham United Church,44.6746354,-63.6492693
+way/1137627036,Webster Farms,Annapolis Valley First Nation,45.0560256,-64.6492023
+way/1137674644,Natoaganeg School,Eel Ground First Nation,46.9641028,-65.626634
+way/1137753710,Millbrook,Millbrook First Nation,45.3299551,-63.3070392
+way/1137861872,Membertou Sport and Wellness Centre,Membertou First Nation,46.1213695,-60.1882057
+way/1137870135,Yarmouth 3,Acadia First Nation,43.8335168,-66.0833591
+way/1137879254,Port Mellon Howe Sound Green Energy Power Station,,49.5216898,-123.4855881
+way/1137960628,Seakist,Glooscap First Nation,43.8384286,-66.1484417
+way/1137962429,,Pabineau First Nation,47.5324593,-65.6682622
+way/1137966088,Potlotek First Nation Band Office,Potlotek First Nation,45.6827116,-60.7675179
+way/1138079845,Shediac Smart Energy Community Project,NB Power,46.2043774,-64.5345899
+way/1138137804,Centre des pensions du gouvernement du Canada,Government of Canada,46.2199925,-64.5406282
+way/1138140827,Shediac Multipurpose Centre,Town of Shediac,46.2217893,-64.5391212
+way/1138160508,Day & Ross,Day & Ross,46.1347918,-64.7432095
+way/1138757957,Awasis Solar Project,,50.4148278,-104.4635488
+way/1140191629,Masstown Market,Masstown Market,45.3930025,-63.4963737
+way/1145420797,Don Henderson Memorial Sportsplex,Municipality of Colchester,45.2574396,-63.2752097
+way/1145420798,Rath Eastlink Community Center,Municipality of Colchester,45.3511462,-63.305803
+way/1147261920,Centrale de Rivière-Du-Loup,,47.8305336,-69.5300931
+way/1148333459,Town of Wolfville,Town of Wolfville,45.0937536,-64.3661513
+way/1148339277,Plymouth Community Centre,Plymouth Community Centre,45.5446692,-62.6543468
+way/1148347484,Knox United,Knox United,44.7677664,-63.683804
+way/1148350050,Yarmouth County Solid Waste Park,"Town of Yarmouth, the Municipality of Yarmouth, and the Municipality of Argyle",43.9147371,-66.0352467
+way/1148353827,Yarmouth Fire Department,Town of Yarmouth,43.8383049,-66.1102456
+way/1148389004,West Pubnico Wastewater Treatment Plant,Municipality of the District of Argyle,43.6401112,-65.8149339
+way/1148393936,TCRCE Operations,Municipality of the District of Yarmouth,43.8779931,-66.0829559
+way/1148395267,The Hall,Parrsboro Band Association,45.4063528,-64.3277688
+way/1148537280,Le Centre Pombcoup,Municipality of the District of Argyle,43.666077,-65.7983217
+way/1148539196,Canada Games Complex,Cape Breton University and Tugliq,46.1684764,-60.0919734
+way/1148568912,Physical Science Complex,St. Francis Xavier University,45.6181933,-61.9954982
+way/1148571820,Waycobah First Nation Band Council,Waycobah First Nation,45.9713424,-61.1377224
+way/1148638580,The Hospice Society of Greater Halifax,The Hospice Society of Greater Halifax,44.6265418,-63.5795582
+way/1148638581,Atlantic School of Theology,Atlantic School of Theology,44.6262285,-63.5796957
+way/1148645395,Ivany Campus,Nova Scotia Community College,44.6538459,-63.5504316
+way/1148649176,Atlantic Division Association Canoe Kayak Canada``,Atlantic Division Association Canoe Kayak Canada``,44.6768507,-63.5619819
+way/1149547627,The Academy,Clean Annapolis River Project,44.7412686,-65.5083123
+way/1150041050,Kingston Lions Club,Kingston Lions Club,44.9873182,-64.9475442
+way/1150312197,Victoria Junction Combustion Turbines,,46.1618681,-60.1128358
+way/1150448570,,,42.5181053,-82.0687596
+way/1150448855,,,42.3234933,-82.0248815
+way/1151394388,,,49.8370721,-123.6857366
+way/1152828297,Kemano Generating Station,Rio Tinto,53.5657532,-127.9357715
+way/1153389001,,,45.2329895,-76.0777165
+way/1154406331,Bedford Institute of Oceanography,NRCan,44.6820817,-63.6118055
+way/1155095279,North Commons Public Washroom,Halifax Regional Municipality,44.6509291,-63.5897
+way/1156996934,,,42.6308268,-81.8639776
+way/1158052102,False Creek Energy Centre,City of Vancouver,49.2684822,-123.1148412
+way/1159110317,Furry Creek Hydro Facility,BluEarth Renewables,49.5791639,-123.2015262
+way/1163961599,Steam Plant,,49.2454346,-123.1211439
+way/1167792882,,,42.9516424,-81.6476562
+way/1167792887,,,42.9451945,-81.5747097
+way/1167792888,,,42.9445134,-81.5682034
+way/1167792889,,,42.9633091,-81.5122674
+way/1167792890,,,42.9646338,-81.5183402
+way/1168772410,,,42.5828526,-82.1754296
+way/1175794061,Woodlawn United Church,Woodlawn United Church,44.6787071,-63.5266148
+way/1180114732,,,50.9904686,-113.9971491
+way/1180779981,,Malibu Club Young Life Camp,50.1460433,-123.8800055
+way/1186016052,Empress Solar,,50.6956892,-110.0108695
+way/1186016053,Stavely Solar Farm,,50.1686763,-113.603093
+way/1186016054,Michichi Creek Solar Farm,Concord Green Energy,51.4432537,-112.6665328
+way/1189211303,Alberta Pacific Forest Industries,,54.9231192,-112.863908
+way/1190877944,Intercontinental Pulp Mill Biomass Power Station,,53.9228663,-122.696803
+way/1198042927,PEI Energy Systems District Heating Plant,Enwave,46.2514202,-63.1080168
+way/1200050554,Kwoiek Creek Hydro,Innergex,50.1052212,-121.567255
+way/1203541218,,,44.6480741,-76.3391957
+way/1205562944,,,52.3101136,-113.0781005
+way/1207083040,,,42.9535476,-80.0640536
+way/1211078361,,,60.9462559,-135.1603363
+way/1214627325,Carseland Captive Power Station,Nutrien,50.8447643,-113.5934024
+way/1215180629,York University Power Station,,43.7777832,-79.4984881
+way/1215475303,Christina Lake Cenovus Power Station,,55.5839644,-110.8818737
+way/1216113686,Bear Creek Cogeneration Power Plant,,55.071169,-118.6897564
+way/1218112008,Invista Maitland,,44.6619992,-75.5830439
+way/1219630544,Alexandra District Energy Utility,Lulu Island Energy Company,49.1814847,-123.117008
+way/1221991143,Antigonish Community Solar Garden,Town of Antigonish,45.6278547,-62.0220054
+way/1222046670,Municipality of the County of Antigonish,Municipality of the County of Antigonish,45.6062673,-61.9665048
+way/1222129434,Foster Creek Power Plant,,55.0674982,-110.5364618
+way/1222604051,Slemon Park Microgrid,,46.4485236,-63.8103871
+way/1222869487,Summerside Sunbank,City of Summerside,46.4011442,-63.815981
+way/1224652770,,,45.2786093,-66.0108845
+way/1227258410,,,42.2878087,-82.9803651
+way/1227470594,,,52.224239,-108.4333576
+way/1228963764,,,45.4033489,-75.6541448
+way/1240220222,Thunder Bay Abibow power station,,48.3580079,-89.2316937
+way/1240309533,Algoma Salut Ste. Marie,,46.5178595,-84.3702901
+way/1250473094,,,52.0926081,-106.8502113
+way/1254728668,,,54.5681409,-130.70876
+way/1259724558,,Capstone Infrastructure,58.3547581,-130.2559589
+way/1263251254,East Toba River Hydroelectric Project,Innergex,50.6752575,-123.9604082
+way/1263818789,Chickwat Creek,Renewable Power Corp,49.8334906,-123.7077829
+way/1268880042,Drumheller Solar Farm,Drumheller Solar Corporation,51.5142154,-112.7590711
+way/1271853695,Centrale de Shawinigan-2,Hydro-Québec,46.5364427,-72.7672799
+way/1279198506,,,44.3649438,-64.4689097
+way/1287207101,,TransAlta,51.0745713,-115.4023434
+way/1288836548,Fitzsimmons Creek Hydroelectric Project,Innergex,50.0803958,-122.9198404
+way/1290252003,,,48.5106556,-81.4437322
+way/1290349977,,,49.6317639,-121.9714866
+way/1291165997,,,49.7979589,-89.1113123
+way/1296678517,,,46.3997156,-81.1771078
+way/1296734908,,Nova Scotia Power,45.596941,-61.3579385
+way/1296734919,Point Tupper Generating Station,Nova Scotia Power,45.5865551,-61.3483538
+way/1303749754,East Pubnico,,43.6527416,-65.7624436
+way/1304174724,,,45.44285,-76.469029
+way/1305322044,,,43.9683132,-78.6565951
+way/1305828124,,,44.7289849,-78.8102934
+way/1305834441,Heatherton Community Center,,45.5891797,-61.7904548
+way/1305973343,Hilly Acres Farm,Hilly Acres Farm,46.2726164,-60.3521944
+way/1307560585,,,42.0444764,-82.9340832
+way/1307765643,,,42.3024786,-82.5126771
+way/1310776715,Bayside Travel Centre,Paqtnkek Mi’kmaw Nation,45.5944053,-61.742849
+way/1310960125,,,47.8398981,-80.4485111
+way/1311655819,Village of Canning,,45.1575833,-64.4355646
+way/1311911905,,,53.6789378,-120.911135
+way/1312286563,St George and St Andrew United Church,,44.7417592,-65.5156966
+way/1313592313,Stewiacke Solar Garden,,45.1408069,-63.3548325
+way/1314846051,Eskasoni Solar,Eskasoni Renewables,45.9264891,-60.6516063
+way/1319878306,Milford Community Center,,45.052915,-63.4365087
+way/1322710294,hydropower project,BC Hydro,53.1104583,-120.1910115
+way/1323014210,Cardigan Consolidated School,,46.2258255,-62.6142126
+way/1326360500,Blanc-Sablon,Hydro-Québec,51.4148886,-57.2041661
+way/1328485959,Qulliq Energy Corporation   Arctic Bay,Qulliq Energy Corporation,73.0373475,-85.1425249
+way/1329880687,Pictour Landing First Nation School,Pictou Landing First Nation,45.6754821,-62.6552338
+way/1330534189,Tulita,Tulita Land Corporation,64.8987848,-125.5497319
+way/1332092311,Dome Road Solar Independent Power,Klondike Development Organization,64.0502916,-139.4066222
+way/1332092312,Dawson City Water Treatment Plant,,64.0550798,-139.438024
+way/1332102339,Mayo Generating Facility,Yukon Energy Corporation,63.6565837,-135.9182864
+way/1332788302,,,53.252035,-113.514807
+way/1333347944,Firebag Oil Sands power station,,57.2417784,-110.8557053
+way/1333590206,,Ontario Power Generation,44.9410051,-78.7083411
+way/1342156633,,,52.0843678,-108.3041918
+way/1342273362,,,68.3577243,-133.7087843
+way/1345174348,Bala Generating Station,Ontario Power Generation,45.0132481,-79.6145118
+way/1346184419,Wasdell Falls Generating station,Lakeland Generation Inc,44.7807427,-79.2939056
+way/1346789723,Kinngait Power Station,Qulliq Energy Corporation,64.2354806,-76.5248254
+way/1347778840,,,44.2504409,-76.9657682
+way/1348408481,,,44.2482011,-77.8018215
+way/1348582544,,,43.6108122,-81.5430636
+way/1349132338,,,44.6647676,-76.182953
+way/1351342942,,,45.3329516,-80.0190403
+way/1357792648,Centrale Franquelin,Société d'énergie rivière Franquelin,49.3084507,-67.859478
+way/1359370460,Vancouver General Hospital Energy Centre,,49.2600908,-123.1223533
+way/1364852456,,,68.3577897,-133.7129968
+way/1365661229,,,49.4431018,-82.5443195
+way/1365661235,,,49.4573733,-82.5783136
+way/1365661240,,,49.4629921,-82.5854469
+way/1367055743,,,68.2279757,-135.0183121
+way/1372526542,Carson Creek Power Generation,,54.2836276,-115.6994332
+way/1378728177,,,44.5883963,-75.7676431
+way/1378728178,,,44.5881039,-75.7693183
+way/1381206606,Red Rock Falls Generating Station,,46.3150109,-83.290496
+way/1382739255,Thunderbird Photovoltaic,,49.2616884,-123.2430581
+way/1384382618,500 kW Solar Facility,The Corporation of the City of Welland and Welland Hydro Energy Services,43.0097705,-79.2428381
+way/1384412607,,,51.5981441,-114.5493967
+way/1391396167,,,50.0616111,-82.1592833
+way/1392386958,,,53.063976,-93.3603269
+way/1393186509,Queen Elizabeth Power Plant,Saskpower,52.0946694,-106.7054727
+way/1396298882,,,53.8198132,-113.0989881
+way/1396793059,Falls River,,53.9835094,-129.7343794
+way/1414496835,,,46.1695686,-60.1650582
+way/1414650682,,,43.9878713,-77.4867949
+way/1414658811,,,44.0685525,-77.1751503
+way/1414706856,,,55.8819517,-115.8266605
+way/1417075277,,,47.8714096,-79.892089
+way/1417075278,,,47.8694265,-79.8875488
+way/1417075279,,,47.8671809,-79.8899813
+way/1417075280,,,47.878941,-79.8896489
+way/1417075281,,,47.8837736,-79.8873323
+way/1417075282,,,47.8858386,-79.8854037
+way/1417075283,,,47.8962974,-79.8894607
+way/1417075284,,,47.9022631,-79.8927596
+way/1417075286,,,47.9162793,-79.8869228
+way/1417431787,,,47.5477513,-79.7154873
+way/1417572598,Wells GS,Brookfield Renewable,46.4315246,-83.3860997
+way/1417574934,Kagawong Hydroelectric Generating Station,Oakville Hydro Energy Services,45.9046312,-82.2574314
+way/1417964762,Oneida Energy Storage,Oneida LP,42.8292006,-80.0608806
+way/1418532161,,,46.1949137,-82.8911641
+way/1418532162,,,46.1917245,-82.8941904
+way/1418532163,,,46.1911992,-82.8899851
+way/1418532164,,,46.1919493,-82.8889834
+way/1418532165,,,46.1929466,-82.8896606
+way/1418532166,,,46.189884,-82.8902982
+way/1418532167,,,46.1886895,-82.8904275
+way/1418532168,,,46.1894565,-82.8939756
+way/1418532169,,,46.1870706,-82.8881848
+way/1419364190,Irondale Generating Station,,44.9188003,-78.3120835
+way/1419962807,,,44.5925868,-80.9118607
+way/1420260093,,,50.4317164,-114.4391496
+way/1421278218,,,48.1283228,-79.5877279
+way/1421452421,Cameron Falls,Evolugen,46.282123,-82.1493699
+way/1421563390,,,46.2480811,-81.747718
+way/1422644107,South River Hydroelectric Generating Station,,45.8481376,-79.3774097
+way/1423900798,,,48.6400584,-85.7655702
+way/1423900799,White River Power Generation,,48.6406928,-85.7662361
+way/1423903454,White River Power Generation,,48.5957198,-85.8787535
+way/1425989090,,,50.6520822,-113.8785388
+way/1426838846,Glooscap Community Solar,Glooscap Energy,45.0409832,-64.2348779
+way/1427204547,Big Beaver Falls Generating Station,,49.2999405,-82.5275721
+way/1427204551,Camp Three Rapids Generating Station,,49.2963987,-82.5369752
+way/1427318128,,,43.5242038,-80.5054497
+way/1430538425,Suncor Oil Coke Boiler Replacement (CBR) Project,,57.0022278,-111.4856016
+way/1431334438,,,47.5320627,-79.7402917
+way/1433873329,,,47.5362956,-79.7079201
+way/1434607141,,,54.9625426,-119.1924951
+way/1434881003,,,48.3471257,-81.4806129
+way/1434887220,Iroquois Falls Generating Station,,48.7630762,-80.6692937
+way/1434929402,,Brookfield,46.4336576,-83.3838064
+way/1434933597,,,46.4745939,-80.81835
+way/1434942331,,,46.4915319,-81.0604123
+way/1435174157,,,47.6378297,-79.8439817
+way/1435453806,,,50.7714166,-118.1042276
+way/1435711660,Cascade Power Project,,53.5243941,-116.5968075
+way/1442712512,Brilliant Expansion Generating Station,FortisBC,49.3230987,-117.6198467
+way/1447854909,,,51.6310073,-114.730813
+way/1447854910,,,51.6310178,-114.7307263
+way/1450920902,,,49.0078867,-116.4034062
+way/1450920903,,,49.0078529,-116.4034554
+way/1453111443,,,50.9033678,-116.4089589
+way/1460855312,Elora Generating Station,Orillia Power,43.6807967,-80.4326931
+way/1461320582,,,47.6685746,-79.6227881
+way/1461843428,,,49.6430608,-103.9148908
+way/1463980362,Xeni Gwet'in Solar Generator,,51.4689094,-123.9484886
+way/1468633885,Tilley Solar,,50.4883814,-111.6144419
+way/1469038133,Ulkatcho Energy Corporation,,52.417283,-125.2368604
+way/1469299993,,,48.1334641,-80.0499956
+way/1469299994,,,48.1371139,-80.0410974
+way/1469300001,,,48.1322817,-80.0594048
+way/1469554164,Atlin Hydro,Atlin Hydro,59.582939,-133.6445285
+way/1470269348,Parc solaire P4,Université de Sherbrooke,45.3777914,-71.9413214
+way/1470374169,Valerie Falls,,48.7918283,-91.7051339
+way/1472378549,,,48.8909587,-55.8228669
+way/1476505386,,,45.7839762,-64.2317865
+way/1479858452,,,51.1058208,-114.2287112
+way/1481236136,,,53.5645822,-113.7463226
+way/1481236137,,,53.5672153,-113.7454123
+way/1481649181,Sollair Energy Project,General Land and Power,51.3363339,-113.9785615
+way/1493241560,MacKenzie Pulp Mill power station,,55.2915539,-123.1598203
+node/1493863497,,,45.1968419,-66.3255467
+way/1496756415,,,44.5917412,-80.9004557
+way/1498883159,,,44.2336454,-80.4980794
+way/1498883160,,,44.233643,-80.4979809
+way/1500636476,Hystad,Evolugen,52.8411552,-119.3521315
+way/1501259786,,,49.7163642,-112.9097006
+way/1504268600,Parc éolien de Great Whale River Wind Power,Kuujjuarapik Whapmagoostui Renewable Energy Corporation,55.2919814,-77.6733286
+way/1506384154,,,49.1104463,-125.923779
+way/1506384155,,,49.1103889,-125.9236511
+way/1510196670,Welland,,43.1546288,-79.1927208
+way/1510333243,Cypress Creek,,49.8426621,-126.1278836
+way/1510333246,"Drops 4, 5, and 6 Power Plant",Irrican Power,49.4526101,-112.7165514
+way/1510333248,Middle,,54.3786382,-128.8880489
+way/1513866675,Parc solaire P3,Université de Sherbrooke,45.3785544,-71.9400687
+way/1513866676,Parc solaire J1,Université de Sherbrooke,45.3764997,-71.9305495
+way/1531530762,Bancroft Generating Station,Lakeland Generation,45.0552106,-77.8535862
+way/1546620555,Guelph Dam Turbine,Grand River Conservation Authority,43.5949705,-80.2672877
+way/1546621110,Shand Dam Turbine,Grand River Conservation Authority,43.7343524,-80.3370474
+way/1546621249,Conestogo Dam Turbine,Grand River Conservation Authority,43.6755314,-80.7158361
+way/1549452605,Chin Chute Power Plant,Irrican Power,49.6733058,-112.3393406
+node/7818228257,Voith Paper Canada Inc,,45.5986099,-74.5861916
+node/10208287925,John Hart Generating Station,,50.0432433,-125.3181696

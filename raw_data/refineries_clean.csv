@@ -1,0 +1,169 @@
+facility_id,facility_name,facility_type,owner,country,city,state_province,latitude,longitude,source_type
+REF_0001,Parkland Fuel,Refinery,Parkland Fuel Corp,Canada,North Burnaby,British Columbia,49.28889,-123.006,Refinery
+REF_0002,Syncrude,Refinery,Syncrude Canada Ltd.,Canada,Fort McMurray,Alberta,57.0419285,-111.6190673,Upgrader
+REF_0003,Federated Co-op,Refinery,Consumer's Co-op Refineries Ltd.,Canada,Regina,Saskatchewan,50.48523,-104.576,Refinery
+REF_0004,Husky Lloydminster,Refinery,Husky Energy,Canada,Lloydminster,Alberta,53.2880714,-110.0165006,Asphalt Refinery
+REF_0005,Suncor Base U1/U2 Millenium,Refinery,Suncor Oil Sands Group,Canada,Fort McMurray,Alberta,56.9990987,-111.4786853,Upgrader
+REF_0006,Husky Prince George,Refinery,Husky Energy,Canada,Prince George,British Columbia,53.9273447,-122.698191,Refinery
+REF_0007,Imperial Nanticoke,Refinery,Imperial Oil Ltd.,Canada,Nanticoke,Ontario,42.83309,-80.0469,Refinery
+REF_0008,Imperial Sarnia,Refinery,Imperial Oil Ltd.,Canada,Sarnia,Ontario,42.94985,-82.4171,Refinery
+REF_0009,Imperial Strathcona,Refinery,Imperial Oil Ltd.,Canada,Strathcona,Alberta,53.542659,-113.395167,Refinery
+REF_0010,Irving Oil,Refinery,Irving Oil Ltd.,Canada,Saint John,New Brunswick,45.283523,-66.0118431,Refinery
+REF_0011,Moose Jaw,Refinery,Moose Jaw Refinery,Canada,Moose Jaw,Saskatchewan,50.38859,-105.52,Asphalt Refinery
+REF_0012,North Atlantic (NARL),Refinery,North Atlantic Refining Ltd.,Canada,Come-by-Chance,Newfoundland and Labrador,47.7984871,-53.9924164,Refinery
+REF_0013,Shell Corunna,Refinery,Shell Canada Ltd.,Canada,Corunna,Ontario,42.9019858,-82.4512473,Refinery
+REF_0014,Shell Scotford,Refinery,Shell Canada Ltd.,Canada,Scotford,Alberta,53.796369,-113.090808,Refinery
+REF_0015,Shell Scotford,Refinery,Shell Canada Ltd.,Canada,Scotford,Alberta,53.796369,-113.090808,Upgrader
+REF_0016,CNRL Horizon,Refinery,Canadian Natural Resources Ltd.,Canada,Fort McMurray,Alberta,57.3386047,-111.7500482,Upgrader
+REF_0017,Suncor Edmonton,Refinery,Suncor Energy Inc.,Canada,Edmonton,Alberta,53.55141,-113.351,Refinery
+REF_0018,Suncor Montreal,Refinery,Suncor Energy Inc.,Canada,Montreal,Québec,45.64274,-73.523,Refinery
+REF_0019,Suncor Sarnia,Refinery,Suncor Energy Inc.,Canada,Sarnia,Ontario,42.9302045,-82.4405051,Refinery
+REF_0020,Husky Lloydminster,Refinery,Husky Energy,Canada,Lloydminster,Saskatchewan,53.2635701,-109.9459067,Upgrader
+REF_0021,Valero,Refinery,Valero Energy Inc.,Canada,Levis,Québec,46.76012,-71.1926,Refinery
+REF_0022,Cadereyta,Refinery,Pemex,Mexico,Cadereyta,Nuevo León,25.586328,-99.94107,Refinery
+REF_0023,Madero,Refinery,Pemex,Mexico,Cd. Madero,Tamaulipas,22.275045,-97.814285,Refinery
+REF_0024,Minatitlán,Refinery,Pemex,Mexico,Minatitlan,Veracruz,17.975845,-94.52169,Refinery
+REF_0025,Salamanca,Refinery,Pemex,Mexico,Salamanca,Guanajuato,20.580305,-101.180297,Refinery
+REF_0026,Salina Cruz,Refinery,Pemex,Mexico,Salina Cruz,Oaxaca,16.208913,-95.178321,Refinery
+REF_0027,Tula,Refinery,Pemex,Mexico,Tula de Allende,Hidalgo,20.043621,-99.278694,Refinery
+REF_0028,,Refinery,Total Petrochemicals & Refining USA,United States,Port Arthur,Texas,29.998606,-93.984414,Refinery
+REF_0029,,Refinery,Alon USA Energy Inc,United States,Big Spring,Texas,32.270992,-101.415073,Refinery
+REF_0030,,Refinery,Marathon Petroleum Co LP,United States,Catlettsburg,Kentucky,38.376602,-82.596408,Refinery
+REF_0031,,Refinery,Marathon Petroleum Co LP,United States,Canton,Ohio,40.772929,-81.413878,Refinery
+REF_0032,,Refinery,St Paul Park Refining Co LLC,United States,Saint Paul,Minnesota,44.851007,-92.994345,Refinery
+REF_0033,,Refinery,Tesoro Refining & Marketing Co,United States,Carson,California,33.818578,-118.236677,Refinery
+REF_0034,,Refinery,BP West Coast Products LLC,United States,Ferndale,Washington,48.884624,-122.734766,Refinery
+REF_0035,,Refinery,Conocophillips Alaska Inc,United States,Prudhoe Bay,Alaska,70.324832,-149.604069,Refinery
+REF_0036,,Refinery,BP Exploration Alaska Inc,United States,Prudhoe Bay,Alaska,70.253586,-148.37813,Refinery
+REF_0037,,Refinery,Calumet Lubricants Co LP,United States,Princeton,Louisiana,32.59107,-93.511874,Refinery
+REF_0038,,Refinery,Calumet Lubricants Co LP,United States,Cotton Valley,Louisiana,32.798531,-93.411128,Refinery
+REF_0039,,Refinery,CHS Mcpherson Refinery Inc,United States,Mcpherson,Kansas,38.341628,-97.67768,Refinery
+REF_0040,,Refinery,Cenex Harvest States Coop,United States,Laurel,Montana,45.658374,-108.7681,Refinery
+REF_0041,,Refinery,Chevron USA Inc,United States,El Segundo,California,33.911422,-118.410994,Refinery
+REF_0042,,Refinery,Chevron USA Inc,United States,Richmond,California,37.94978,-122.398665,Refinery
+REF_0043,,Refinery,Island Energy Services Downstream,United States,Honolulu,Hawaii,21.303644,-158.088117,Refinery
+REF_0044,,Refinery,Western Refining Company LP,United States,El Paso,Texas,31.767512,-106.395613,Refinery
+REF_0045,,Refinery,Chevron USA Inc,United States,Salt Lake City,Utah,40.824744,-111.923936,Refinery
+REF_0046,,Refinery,Chevron USA Inc,United States,Pascagoula,Mississippi,30.344744,-88.489914,Refinery
+REF_0047,,Refinery,Delek Refining Ltd,United States,Tyler,Texas,32.360432,-95.281964,Refinery
+REF_0048,,Refinery,Pasadena Refining Systems Inc,United States,Pasadena,Texas,29.721442,-95.206799,Refinery
+REF_0049,,Refinery,Silver Eagle Refining,United States,Woods Cross,Utah,40.867508,-111.910603,Refinery
+REF_0050,,Refinery,Calumet Lubricants Co,United States,San Antonio,Texas,29.347637,-98.459995,Refinery
+REF_0051,,Refinery,Ergon Refining Inc,United States,Vicksburg,Mississippi,32.385998,-90.907845,Refinery
+REF_0052,,Refinery,Exxonmobil Refining & Supply Co,United States,Baton Rouge,Louisiana,30.486272,-91.169797,Refinery
+REF_0053,,Refinery,Exxonmobil Refining & Supply Co,United States,Billings,Montana,45.814531,-108.434778,Refinery
+REF_0054,,Refinery,Exxonmobil Refining & Supply Co,United States,Baytown,Texas,29.761431,-94.976798,Refinery
+REF_0055,,Refinery,Valero Refining Co California,United States,Benicia,California,38.072007,-122.138319,Refinery
+REF_0056,,Refinery,Coffeyville Resources Rfg & Mktg,United States,Coffeyville,Kansas,37.049525,-95.605823,Refinery
+REF_0057,,Refinery,Big West Oil Co,United States,North Salt Lake,Utah,40.838556,-111.920665,Refinery
+REF_0058,,Refinery,Wynnewood Refining Co,United States,Wynnewood,Oklahoma,34.632945,-97.167756,Refinery
+REF_0059,,Refinery,Western Refining Southwest Inc,United States,Gallup,New Mexico,35.488468,-108.427359,Refinery
+REF_0060,,Refinery,Hollyfrontier Navajo Refining LLC,United States,Artesia,New Mexico,32.844821,-104.390979,Refinery
+REF_0061,,Refinery,Calumet Montana Refining LLC,United States,Great Falls,Montana,47.523212,-111.295316,Refinery
+REF_0062,,Refinery,Hunt Refining Co,United States,Tuscaloosa,Alabama,33.200487,-87.611011,Refinery
+REF_0063,,Refinery,Valero Refining Co California,United States,Wilmington Asphalt Plant,California,33.798301,-118.236861,Asphalt Refinery
+REF_0064,,Refinery,Kern Oil & Refining Co,United States,Bakersfield,California,35.294719,-118.917953,Refinery
+REF_0065,,Refinery,Flint Hills Resources LP,United States,Saint Paul,Minnesota,44.7633,-93.0391,Refinery
+REF_0066,,Refinery,Flint Hills Resources LP,United States,Corpus Christi,Texas,27.832974,-97.525965,Refinery
+REF_0067,,Refinery,Shell Chemical LP,United States,Saraland,Alabama,30.7886,-88.0562,Refinery
+REF_0068,,Refinery,Valero Refining Co California,United States,Wilmington Refinery,California,33.779055,-118.233663,Refinery
+REF_0069,,Refinery,Premcor Refining Group Inc,United States,Memphis,Tennessee,35.084704,-90.082597,Refinery
+REF_0070,,Refinery,Paulsboro Refining Co LLC,United States,Paulsboro,New Jersey,39.840304,-75.257767,Refinery
+REF_0071,,Refinery,Exxonmobil Refining & Supply Co,United States,Beaumont,Texas,30.111321,-94.106796,Refinery
+REF_0072,,Refinery,Torrance Refining Co LLC,United States,Torrance,California,33.853208,-118.332317,Refinery
+REF_0073,,Refinery,Exxonmobil Refining & Supply Co,United States,Joliet,Illinois,41.41471,-88.183309,Refinery
+REF_0074,,Refinery,Chalmette Refining LLC,United States,Chalmette,Louisiana,29.935151,-89.974393,Refinery
+REF_0075,,Refinery,Valero Energy Corporation,United States,Meraux,Louisiana,29.933813,-89.941198,Refinery
+REF_0076,,Refinery,Calumet Lubricants Co LP,United States,Superior,Wisconsin,46.690572,-92.067312,Refinery
+REF_0077,,Refinery,Calumet Shreveport LLC,United States,Shreveport,Louisiana,32.467561,-93.792592,Refinery
+REF_0078,,Refinery,WRB Refining LP,United States,Borger,Texas,35.693187,-101.365597,Refinery
+REF_0079,,Refinery,Phillips 66 Company,United States,Sweeny,Texas,29.077881,-95.747538,Refinery
+REF_0080,,Refinery,Hollyfrontier Woods Cross Refining L,United States,Woods Cross,Utah,40.886581,-111.904823,Refinery
+REF_0081,,Refinery,Placid Refining Co,United States,Port Allen,Louisiana,30.477376,-91.210811,Refinery
+REF_0082,,Refinery,Ergon West Virginia Inc,United States,Newell,West Virginia,40.610826,-80.629399,Refinery
+REF_0083,,Refinery,San Joaquin Refining Co Inc,United States,Bakersfield,California,35.38733,-119.047922,Refinery
+REF_0084,,Refinery,WRB Refining LP,United States,Wood River,Illinois,38.845944,-90.067283,Refinery
+REF_0085,,Refinery,Motiva Enterprises LLC,United States,Norco,Louisiana,30.001717,-90.40413,Refinery
+REF_0086,,Refinery,Tesoro West Coast,United States,Anacortes,Washington,48.494369,-122.562522,Refinery
+REF_0087,,Refinery,Shell Oil Products US,United States,Martinez,California,38.019952,-122.111017,Refinery
+REF_0088,,Refinery,BP-Husky Refining LLC,United States,Toledo,Ohio,41.680021,-83.453963,Refinery
+REF_0089,,Refinery,Lima Refining Company,United States,Lima,Ohio,40.715965,-84.12464,Refinery
+REF_0090,,Refinery,Phillips 66 Company,United States,Belle Chasse,Louisiana,29.684405,-89.979839,Refinery
+REF_0091,,Refinery,Continental Refining Company LLC,United States,Somerset,Kentucky,37.069685,-84.614561,Refinery
+REF_0092,,Refinery,BP Products North America Inc,United States,Whiting,Indiana,41.668103,-87.480268,Refinery
+REF_0093,,Refinery,Tesoro West Coast,United States,Mandan,North Dakota,46.849832,-100.883767,Refinery
+REF_0094,,Refinery,Marathon Petroleum Co LP,United States,Galveston Bay,Texas,29.374692,-94.933456,Refinery
+REF_0095,,Refinery,Tesoro West Coast,United States,Salt Lake City,Utah,40.792315,-111.905455,Refinery
+REF_0096,,Refinery,Philadelphia Energy Solutions,United States,Philadelphia,Pennsylvania,39.910061,-75.203061,Refinery
+REF_0097,,Refinery,Toledo Refining Co LLC,United States,Toledo,Ohio,41.62889,-83.50492,Refinery
+REF_0098,,Refinery,Hollyfrontier Tulsa Refining LLC,United States,Tulsa West,Oklahoma,36.139133,-96.022697,Refinery
+REF_0099,,Refinery,Tesoro Alaska Petroleum Co,United States,Kenai,Alaska,60.682335,-151.376675,Refinery
+REF_0100,,Refinery,Hollyfrontier El Dorado Refining LLC,United States,El Dorado,Kansas,37.797473,-96.872662,Refinery
+REF_0101,,Refinery,Alon Bakersfield Operating Inc,United States,Bakersfield,California,35.439492,-118.986971,Refinery
+REF_0102,,Refinery,Shell Oil Products US,United States,Anacortes,Washington,48.470693,-122.556244,Refinery
+REF_0103,,Refinery,Tesoro Refining & Marketing Co,United States,Wilmington,California,33.801089,-118.231229,Refinery
+REF_0104,,Refinery,US Oil & Refining Co,United States,Tacoma,Washington,47.255786,-122.397126,Refinery
+REF_0105,,Refinery,Tesoro Refining & Marketing Co,United States,Martinez,California,38.023026,-122.063905,Refinery
+REF_0106,,Refinery,Phillips 66 Company,United States,Ferndale,Washington,48.830501,-122.696618,Refinery
+REF_0107,,Refinery,Phillips 66 Company,United States,Linden,New Jersey,40.635876,-74.22235,Refinery
+REF_0108,,Refinery,Monroe Energy LLC,United States,Trainer,Pennsylvania,39.819143,-75.403896,Refinery
+REF_0109,,Refinery,Valero Refining Co Oklahoma,United States,Ardmore,Oklahoma,34.2044,-97.101794,Refinery
+REF_0110,,Refinery,Suncor Energy (USA) Inc,United States,Commerce City East,Colorado,39.801794,-104.944705,Refinery
+REF_0111,,Refinery,Phillips 66 Company,United States,Rodeo,California,38.043474,-122.255632,Refinery
+REF_0112,,Refinery,Phillips 66 Company,United States,Wilmington,California,33.810856,-118.243473,Refinery
+REF_0113,,Refinery,Valero Refining Co Texas LP,United States,Corpus Christi,Texas,27.816758,-97.484505,Refinery
+REF_0114,,Refinery,American Refining Group Inc,United States,Bradford,Pennsylvania,41.966715,-78.629424,Refinery
+REF_0115,,Refinery,Hermes Consolidated LLC,United States,New Castle,Wyoming,43.848521,-104.213903,Refinery
+REF_0116,,Refinery,Foreland Refining Corp,United States,Ely,Nevada,38.621486,-115.617898,Refinery
+REF_0117,,Refinery,Hawaii Independent Energy LLC,United States,Ewa Beach,Hawaii,21.309493,-158.110927,Refinery
+REF_0118,,Refinery,Countrymark Cooperative Inc,United States,Mount Vernon,Indiana,37.906028,-87.928877,Refinery
+REF_0119,,Refinery,Cross Oil Refining & Marketing Inc,United States,Smackover,Arkansas,33.363209,-92.712123,Refinery
+REF_0120,,Refinery,Deer Park Refining Ltd Partnership,United States,Deer Park,Texas,29.731441,-95.126797,Refinery
+REF_0121,,Refinery,Valero Energy Corporation,United States,Sunray,Texas,35.95563,-101.880991,Refinery
+REF_0122,,Refinery,Valero Energy Corporation,United States,Three Rivers,Texas,28.45921,-98.188265,Refinery
+REF_0123,,Refinery,Suncor Energy (USA) Inc,United States,Commerce City West,Colorado,39.803311,-104.946497,Refinery
+REF_0124,,Refinery,Phillips 66 Company,United States,Westlake,Louisiana,30.241215,-93.271135,Refinery
+REF_0125,,Refinery,Phillips 66 Company,United States,Billings,Montana,45.78057,-108.490143,Refinery
+REF_0126,,Refinery,Phillips 66 Company,United States,Ponca City,Oklahoma,36.675939,-97.079264,Refinery
+REF_0127,,Refinery,Shell Oil Products US,United States,Saint Rose,Louisiana,29.939755,-90.330328,Asphalt Refinery
+REF_0128,,Refinery,Hollyfrontier Cheyenne Refining LLC,United States,Cheyenne,Wyoming,41.127132,-104.78975,Refinery
+REF_0129,,Refinery,Premcor Refining Group Inc,United States,Port Arthur,Texas,29.958382,-93.889234,Refinery
+REF_0130,,Refinery,Lion Oil Co,United States,El Dorado,Arkansas,33.199731,-92.673774,Refinery
+REF_0131,,Refinery,Houston Refining LP,United States,Houston,Texas,29.701556,-95.251761,Refinery
+REF_0132,,Refinery,Paramount Petroleum Corporation,United States,Paramount,California,33.899551,-118.146627,Refinery
+REF_0133,,Refinery,Petro Star Inc,United States,North Pole,Alaska,64.85276,-147.748499,Refinery
+REF_0134,,Refinery,Petro Star Inc,United States,Valdez,Alaska,61.081919,-146.381762,Refinery
+REF_0135,,Refinery,CITGO Petroleum Corp,United States,Lake Charles,Louisiana,30.181174,-93.332596,Refinery
+REF_0136,,Refinery,CITGO Refining & Chemical Inc,United States,Corpus Christi,Texas,27.809474,-97.428434,Refinery
+REF_0137,,Refinery,Axeon Specialty Products LLC,United States,Paulsboro,New Jersey,39.841426,-75.228352,Asphalt Refinery
+REF_0138,,Refinery,Santa Maria Refining Company,United States,Santa Maria,California,34.930191,-120.51108,Asphalt Refinery
+REF_0139,,Refinery,Sinclair Wyoming Refining Co,United States,Sinclair,Wyoming,41.780163,-107.109511,Refinery
+REF_0140,,Refinery,Hollyfrontier Tulsa Refining LLC,United States,Tulsa East,Oklahoma,36.116749,-95.999949,Refinery
+REF_0141,,Refinery,Little America Refining Co,United States,Evansville,Wyoming,42.858453,-106.242437,Refinery
+REF_0142,,Refinery,Alon Refining Krotz Springs Inc,United States,Krotz Springs,Louisiana,30.526508,-91.748001,Refinery
+REF_0143,,Refinery,Valero Refining Co Texas LP,United States,Houston,Texas,29.722805,-95.255585,Refinery
+REF_0144,,Refinery,Valero Refining Co Texas LP,United States,Texas City,Texas,29.378096,-94.895337,Refinery
+REF_0145,,Refinery,Motiva Enterprises LLC,United States,Convent,Louisiana,30.107774,-90.892547,Refinery
+REF_0146,,Refinery,Delaware City Refining Co LLC,United States,Delaware City,Delaware,39.587733,-75.631323,Refinery
+REF_0147,,Refinery,Motiva Enterprises LLC,United States,Port Arthur,Texas,29.860001,-93.969224,Refinery
+REF_0148,,Refinery,Calcasieu Refining Co,United States,Lake Charles,Louisiana,30.132389,-93.320068,Refinery
+REF_0149,,Refinery,South Hampton Resources Inc,United States,Silsbee,Texas,30.398348,-94.228208,Refinery
+REF_0150,,Refinery,Valero Refining New Orleans LLC,United States,Norco,Louisiana,30.002368,-90.423202,Refinery
+REF_0151,,Refinery,United Refining Co,United States,Warren,Pennsylvania,41.832187,-79.128024,Refinery
+REF_0152,,Refinery,Lazarus Energy LLC,United States,Nixon,Texas,29.261622,-97.787248,Refinery
+REF_0153,,Refinery,PDV Midwest Refining LLC,United States,Lemont,Illinois,41.655625,-88.04655,Refinery
+REF_0154,,Refinery,Marathon Petroleum Co LP,United States,Detroit,Michigan,42.2837,-83.158493,Refinery
+REF_0155,,Refinery,Marathon Petroleum Co LP,United States,Texas City,Texas,29.366542,-94.910472,Refinery
+REF_0156,,Refinery,Marathon Petroleum Co LP,United States,Garyville,Louisiana,30.060139,-90.595952,Refinery
+REF_0157,,Refinery,Marathon Petroleum Co LP,United States,Robinson,Illinois,38.997284,-87.715851,Refinery
+REF_0158,,Refinery,Hunt Southland Refining Co,United States,Sandersville,Mississippi,31.814884,-89.009189,Asphalt Refinery
+REF_0159,,Refinery,Lunday Thagard Co,United States,South Gate,California,33.946372,-118.166647,Asphalt Refinery
+REF_0160,,Refinery,Silver Eagle Refining,United States,Evanston,Wyoming,41.261142,-110.806321,Refinery
+REF_0161,,Refinery,Goodway Refining LLC,United States,Atmore,Alabama,31.072,-87.363,Refinery
+REF_0162,,Refinery,Excel Paralubes,United States,Westlake,Louisiana,30.188295,-93.339019,Refinery
+REF_0163,,Refinery,Equistar Chemicals LP,United States,Channelview,Texas,29.82338,-95.113566,Refinery
+REF_0164,,Refinery,Tesoro Refining & Marketing Co,United States,Dickinson,North Dakota,46.855395,-102.911365,Refinery
+REF_0165,,Refinery,Kinder Morgan Crude & Condensate,United States,Galena Park,Texas,29.733018,-95.219682,Refinery
+REF_0166,,Refinery,Petromax Refining Co LLC,United States,Houston,Texas,29.75377,-95.123221,Refinery
+REF_0167,,Refinery,Buckeye Texas Processing LLC,United States,Corpus Christi,Texas,27.817895,-97.505532,Refinery
+REF_0168,,Refinery,Magellan Terminal Holdings LP,United States,Corpus Christi,Texas,27.806936,-97.439103,Refinery
